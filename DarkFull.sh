@@ -24,7 +24,7 @@ if [ $user = 'Risky' ] | [ $pass = 'Santuy' ]
 then
 echo $cy"LOGIN SUCCESFULL"
 sleep 3
-sh Lu_mau_recode?_MIKIR_GOBLOK_lu_kira_gampang_bikin_script!??_NGOTAK_BANGSAT!-aowjeknekwowsowpqppwpqpqkqoqkqlannsbsbekwmwakkalalalakakk0209220107383883939202ss.sh
+sh Dark-Asli-Work-Asiaaaaaapxxxxxxxxxxxxxxxxxxxxxxxxawdawdawdawdawdawdawdawdawd.sh
 else
 echo $cy"ACCES DENIED!!"
 sleep 1
