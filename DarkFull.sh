@@ -15,6 +15,11 @@ D='\x1b[0m'
 endc='\E[0m'
 enda='\033[0m'
 
+clear
+clear
+clear
+echo "Terima-Kasih Risky Santuy :)" lolcat
+
 echo $i"#--Masukan Username!"
 read -p "#--•> " user
 echo $i"#--Masukan Password!"
