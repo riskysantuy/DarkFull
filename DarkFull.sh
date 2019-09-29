@@ -22,11 +22,11 @@ read -p "#--•> " pass
 
 if [ $user = 'Risky' ] | [ $pass = 'Santuy' ]
 then
-echo $cy"LOGIN SUCCESFULL"
+echo $cy"LOGIN BERASIL"
 sleep 3
 sh Dark-Asli-Work-Asiaaaaaapxxxxxxxxxxxxxxxxxxxxxxxxawdawdawdawdawdawdawdawdawd.sh
 else
-echo $cy"ACCES DENIED!!"
+echo $cy"LOGIN GAGAL"
 sleep 1
 echo $i"Mau UserName & Password Dark Full Ini :)"
 sleep 3
