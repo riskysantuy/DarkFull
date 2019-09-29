@@ -23,22 +23,18 @@ enda='\033[0m'
 clear
 echo
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
-echo $me"<[∆"      $i"Kumpulan Tools Work"
-echo $me"<[∆"      $i"Berbagai Jenis"
-echo $me"<[∆"  $cy"Author : riskysantuy(RISKY-SANTUY)"
-echo $me"<[∆"  $cy"Team   : Cyber Termux Indonesia"
-echo $me"<[∆"  $pu"Contact: 0821-6979-67**"
+echo $bi"<[∆"      $i"Kumpulan Tools Work"
+echo $pur"<[∆"      $i"Berbagai Jenis"
+echo $ku"<[∆"  $cy"Github : riskysantuy(Riski-Santuy)"
+echo $i"<[∆"   $cy"Team   : Cyber Termux Indonesia"
+echo $bi"<[∆"  $pu"Contact: 0821-6979-67**"
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo
 sleep 3
-echo $i"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $i"[]   SILAHKAN MELIHAT HASIL BUATAN GUE        []"
-echo $i"[] Jangan DiRecode Iya Tod Gue Susah BikinNya []"
-echo $i"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo
-echo $i"CTRL+z Untuk Stop :)"
-echo
-echo $i"Menu Yang Tersedia DiSini Cuma Ada 12(Dua Belas)"
+echo $i"[][][][][][][][][][][][][][][][][][][][][]"
+echo $i"[] SILAHKAN MENGGUNAKAN TOOLS WORK 2019 []"
+echo $i"[] Tools Yang Tersedia Cuma Ada         []"
+echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 echo
 sleep 3
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
@@ -48,39 +44,22 @@ sleep 1
 echo $me"2. DarkFB 1.8 "
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $pur"3. DarkFB-Work 1.3"
+echo $bi"3. Black-FB-Premium"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"4. Fb-Premium"
+echo $me"4. Drak-Premium"
+echo $ku"   Anti Dari Cp(Check-Point)"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $ku"5. Dark-Hantu-KIlers"
+echo $bi"5. Dark-HANTUKILERS"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"6. DarkFB NEW"
+echo $me"6. Rusmana-ID"
+echo $pur"  Tidak Pake User & Pass"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 2
-echo $ku"7. Rm--xx Terbaru"
-echo "Pake User & Pass "
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1
-echo $me"8. DarkCyber"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1
-echo $pur"9. Dark-GG"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1
-echo $ku"10. BAJINGv6"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1
-echo $pur"11. Rusmana-ID"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 1
-echo $bi"12. Xtermux Lengkap"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-sleep 2
-echo $cy "╭─"$pu"Masukkan Pilihan"
-read -p " ╰──────•DarkFB•>> " pil
+echo $cy "╭─"$pu"Pilihan Nomor"
+read -p " ╰──────•Mr.Risky•>> " pil
 
 case $pil in
 
@@ -104,24 +83,23 @@ bash install.sh
 
 #Black FB premium
 
-3) git clone https://github.com/riskysantuy/Tools-Hacker
-cd Tools-Hacker
-python2 Dark.py
+3) git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
+cd Black-Fb-Premium
+python2 Black-Fb.py
 
 
 ;;
 
 #Fb-Premium
 
-4) git clone https://github.com/riskiyana/PremiumFb
-cd PremiumFb
-pip2 install -r requirement.txt
-python2 PremiumFb.py
+4) git clone https://github.com/riskysantuy/Dark-Work
+cd Dark-Work
+python2 Dark.py
 
 
 ;;
 
-#DarkPremium
+#Kota-Dumai
 
 5) git clone https://github.com/Kota-Dumai/Hantu-Kilers
 cd Hantu-Kilers
@@ -130,60 +108,14 @@ python2 dumai.pyc
 
 ;;
 
-#DarkFB NEW
-
-6) git clone https://github.com/MiSetya/FB-NEW
-cd FB-NEW
-python2 NEW.py
-
-
-;;
-
-#Rm--Rf
-
-7) git clone https://github.com/riskysantuy/Rm--Xx
-cd Rm--Xx
-sh rm-xx.sh
-
-
-;;
-
-#DarkCyber
-
-8) git clone https://github.com/fatonicyber/Darkcyber
-cd Darkcyber
-sh Darkcyber.sh
-
-
-;;
-
-#Dark GG
-
-9) git clone https://github.com/fatonicyber/Darkcyber
-cd Darkcyber
-python2 gg.py
-
-
-10) git https://github.com/DarknessCyberTeam/BAJINGANv6
-cd BAJINGANv6
-sh BAJINGAN.sh
-
-
-;;
-
 #Rusmana-ID
 
-11) git clone https://github.com/Rusmana-ID/rus
+6) git clone https://github.com/Rusmana-ID/rus
 cd rus
-sh install.sh
+sh isntall.sh
 
 
 ;;
 
-#Xtermux Lengkap
-
-12) git clone https://github.com/aldidefril556/XtermuxRider
-cd XtermuxRider
-sh canggih123.sh
-*) echo "Maaf Menu Yang Anda Cari Tidak Tersedia DiMenu"
+*) echo "Maaf menu yg anda cari tidak tersedia"
 esac
