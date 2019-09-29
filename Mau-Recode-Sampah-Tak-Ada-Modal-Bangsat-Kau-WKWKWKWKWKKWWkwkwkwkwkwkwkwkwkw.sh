@@ -31,9 +31,14 @@ echo $me"<[∆"  $pu"Contact: 0821-6979-67**"
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo
 sleep 3
-echo $i"[][][][][][][][][][][][][][][][][][][][][]"
-echo $i"[]   SILAHKAN MELIHAT HASIL BUATAN GUE  []"
-echo $i"[][][][][][][][][][][][][][][][][][][][][]"
+echo $i"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $i"[]   SILAHKAN MELIHAT HASIL BUATAN GUE        []"
+echo $i"[] Jangan DiRecode Iya Tod Gue Susah BikinNya []"
+echo $i"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo
+echo $i"CTRL+z Untuk Stop :)"
+echo
+echo $i"Menu Yang Tersedia DiSini Cuma Ada 12(Dua Belas)"
 echo
 sleep 3
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
@@ -56,12 +61,22 @@ echo $me"6. DarkFB NEW"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 2
 echo $me"7. Rm--xx Terbaru"
+echo "Pake User & Pass "
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"8. DarkCyber"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"9. Dark GG"
+echo $me"9. Dark-GG"
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 1
+echo $me"10. BAJINGv6"
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 1
+echo $me"11. Rusmana-ID
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 1
+echo $me"12. Xtermux Lengkap"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo $cy "╭─"$pu"Masukkan Pilihan"
 read -p " ╰──────•DarkFB•>> " pil
@@ -147,5 +162,28 @@ sh Darkcyber.sh
 9) git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 python2 gg.py
-*) echo "Maaf menu yg anda cari tidak tersedia"
+
+
+10) git https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
+
+
+;;
+
+#Rusmana-ID
+
+11) git clone https://github.com/Rusmana-ID/rus
+cd rus
+sh install.sh
+
+
+;;
+
+#Xtermux Lengkap
+
+12) git clone https://github.com/aldidefril556/XtermuxRider
+cd XtermuxRider
+sh canggih123.sh
+*) echo "Maaf Menu Yang Anda Cari Tidak Tersedia DiMenu"
 esac
