@@ -24,7 +24,7 @@ if [ $user = 'Dark' ] | [ $pass = 'Full' ]
 then
 echo $cy"LOGIN SUCCESFULL"
 sleep 3
-sh .....
+sh Dark-Asli-Work-Asiaaaaaapxxxxxxxxxxxxxxxxxxxxxxxxawdawdawdawdawdawdawdawdawd.sh
 else
 echo $cy"ACCES DENIED!!"
 sleep 1
