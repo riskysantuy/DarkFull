@@ -48,35 +48,35 @@ sleep 1
 echo $me"2. DarkFB 1.8 "
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $bi"3. DarkFB-Work 1.3"
+echo $pur"3. DarkFB-Work 1.3"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"4. Fb-Premium"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $bi"5. DarkPremium"
+echo $ku"5. DarkPremium"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"6. DarkFB NEW"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 2
-echo $me"7. Rm--xx Terbaru"
+echo $ku"7. Rm--xx Terbaru"
 echo "Pake User & Pass "
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"8. DarkCyber"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"9. Dark-GG"
+echo $pur"9. Dark-GG"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"10. BAJINGv6"
+echo $ku"10. BAJINGv6"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"11. Rusmana-ID
+echo $pur"11. Rusmana-ID
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $me"12. Xtermux Lengkap"
+echo $bi"12. Xtermux Lengkap"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 2
 echo $cy "╭─"$pu"Masukkan Pilihan"
