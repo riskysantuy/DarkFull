@@ -16,12 +16,8 @@ endc='\E[0m'
 enda='\033[0m'
 
 clear
-clear
-clear
-echo "Terima-Kasih Risky Santuy :)"
-echo "Username & Password "
-echo " Risky   &  Santuy
-
+echo "---Risky---&---Santuy--- "
+echo
 echo $i"#--Masukan Username!"
 read -p "#--•> " user
 echo $i"#--Masukan Password!"
