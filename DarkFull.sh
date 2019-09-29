@@ -20,11 +20,11 @@ read -p "#--•> " user
 echo $i"#--Masukan Password!"
 read -p "#--•> " pass
 
-if [ $user = 'Dark' ] | [ $pass = 'Full' ]
+if [ $user = 'MiSetya' ] | [ $pass = 'Dark' ]
 then
 echo $cy"LOGIN SUCCESFULL"
 sleep 3
-sh Dark-Asli-Work-Asiaaaaaapxxxxxxxxxxxxxxxxxxxxxxxxawdawdawdawdawdawdawdawdawd.sh
+sh Lu_mau_recode?_MIKIR_GOBLOK_lu_kira_gampang_bikin_script!??_NGOTAK_BANGSAT!-aowjeknekwowsowpqppwpqpqkqoqkqlannsbsbekwmwakkalalalakakk0209220107383883939202ss.sh
 else
 echo $cy"ACCES DENIED!!"
 sleep 1
