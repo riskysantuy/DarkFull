@@ -54,7 +54,7 @@ sleep 1
 echo $me"4. Fb-Premium"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $ku"5. DarkPremium"
+echo $ku"5. Dark-Hantu-KIlers"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"6. DarkFB NEW"
@@ -73,7 +73,7 @@ sleep 1
 echo $ku"10. BAJINGv6"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
-echo $pur"11. Rusmana-ID
+echo $pur"11. Rusmana-ID"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $bi"12. Xtermux Lengkap"
@@ -123,10 +123,9 @@ python2 PremiumFb.py
 
 #DarkPremium
 
-5) git clone https://github.com/TheMagizz/DarkPremium
-cd DarkPremium
-pip2 install -r requirements.txt
-python2 DarkFB.py
+5) git clone https://github.com/Kota-Dumai/Hantu-Kilers
+cd Hantu-Kilers
+python2 dumai.pyc
 
 
 ;;
