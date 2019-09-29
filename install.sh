@@ -32,3 +32,5 @@ clear
 pip2 install mechanize
 clear
 pip2 isntall requests
+clear
+toilet -f standard "Selesai " -F gay
