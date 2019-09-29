@@ -20,7 +20,7 @@ read -p "#--•> " user
 echo $i"#--Masukan Password!"
 read -p "#--•> " pass
 
-if [ $user = 'MiSetya' ] | [ $pass = 'Dark' ]
+if [ $user = 'Risky' ] | [ $pass = 'Dark' ]
 then
 echo $cy"LOGIN SUCCESFULL"
 sleep 3
