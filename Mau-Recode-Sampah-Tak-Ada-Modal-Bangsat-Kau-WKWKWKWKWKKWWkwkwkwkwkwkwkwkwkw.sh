@@ -78,6 +78,7 @@ echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 1
 echo $me"12. Xtermux Lengkap"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 2
 echo $cy "╭─"$pu"Masukkan Pilihan"
 read -p " ╰──────•DarkFB•>> " pil
 
