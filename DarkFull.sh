@@ -16,7 +16,7 @@ endc='\E[0m'
 enda='\033[0m'
 
 clear
-echo "---Risky---&---Santuy--- "
+echo "---XxXxX---&---XxXxXxXx--- "
 echo "--Username &---Password--"
 echo
 echo $i"#--Masukan Username!"
