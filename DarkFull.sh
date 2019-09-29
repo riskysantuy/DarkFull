@@ -18,7 +18,9 @@ enda='\033[0m'
 clear
 clear
 clear
-echo "Terima-Kasih Risky Santuy :)" lolcat
+echo "Terima-Kasih Risky Santuy :)"
+echo "Username & Password "
+echo " Risky   &  Santuy
 
 echo $i"#--Masukan Username!"
 read -p "#--•> " user
@@ -29,7 +31,7 @@ if [ $user = 'Risky' ] | [ $pass = 'Santuy' ]
 then
 echo $cy"LOGIN BERASIL"
 sleep 3
-sh Dark-Asli-Work-Asiaaaaaapxxxxxxxxxxxxxxxxxxxxxxxxawdawdawdawdawdawdawdawdawd.sh
+sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
 else
 echo $cy"LOGIN GAGAL"
 sleep 1
