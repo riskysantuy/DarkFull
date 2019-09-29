@@ -28,12 +28,12 @@ sh Lu_mau_recode?_MIKIR_GOBLOK_lu_kira_gampang_bikin_script!??_NGOTAK_BANGSAT!-a
 else
 echo $cy"ACCES DENIED!!"
 sleep 1
-echo $i"Gapunya Username sama Password ya?? Beli makanya!"
+echo $i"Mau UserName & Password Dark Full Ini :)"
 sleep 3
-echo $i"Murah kok cuma 10k akses permanen :)"
+echo $i"UserNamenya Dan Passwordnya Gratis Ko"
 sleep 3
-echo $i"Silahkan hubungi gua untuk membeli username & password"
+echo $i"Loading Lagi Membuka Facebook Admin"
 sleep 5
-xdg-open http://wa.me/=6282386234828
+xdg-open https://www.facebook.com/cewekcantik122
 exit
 fi
