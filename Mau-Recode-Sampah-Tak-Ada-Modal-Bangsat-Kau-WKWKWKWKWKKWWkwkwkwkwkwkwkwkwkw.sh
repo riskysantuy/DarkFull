@@ -1,4 +1,4 @@
-# Kumpulan Tools DarkFB Work
+# Kumpulan Tools Work
 # Yang Bikin By Risky
 # Mau recode? Bangsat Kau Tak Ada Otak
 
@@ -23,7 +23,7 @@ enda='\033[0m'
 clear
 echo
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
-echo $me"<[∆"      $i"Kumpulan Dark FB"
+echo $me"<[∆"      $i"Kumpulan Tools Work"
 echo $me"<[∆"      $i"Berbagai Jenis"
 echo $me"<[∆"  $cy"Author : riskysantuy(RISKY-SANTUY)"
 echo $me"<[∆"  $cy"Team   : Cyber Termux Indonesia"
@@ -55,6 +55,14 @@ sleep 1
 echo $me"6. DarkFB NEW"
 echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 sleep 2
+echo $me"7. Rm--xx Terbaru"
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 1
+echo $me"8. DarkCyber"
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+sleep 1
+echo $me"9. Dark GG"
+echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
 echo $cy "╭─"$pu"Masukkan Pilihan"
 read -p " ╰──────•DarkFB•>> " pil
 
@@ -116,5 +124,28 @@ python2 NEW.py
 
 ;;
 
+#Rm--Rf
+
+7) git clone https://github.com/riskysantuy/Rm--Xx
+cd Rm--Xx
+sh rm-xx.sh
+
+
+;;
+
+#DarkCyber
+
+8) git clone https://github.com/fatonicyber/Darkcyber
+cd Darkcyber
+sh Darkcyber.sh
+
+
+;;
+
+#Dark GG
+
+9) git clone https://github.com/fatonicyber/Darkcyber
+cd Darkcyber
+python2 gg.py
 *) echo "Maaf menu yg anda cari tidak tersedia"
 esac
