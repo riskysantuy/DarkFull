@@ -17,6 +17,7 @@ enda='\033[0m'
 
 clear
 echo "---Risky---&---Santuy--- "
+echo "--Username &---Password--"
 echo
 echo $i"#--Masukan Username!"
 read -p "#--•> " user
