@@ -24,6 +24,9 @@ sleep 1
 echo $i"----XxXxXxxX----&---XxXxXxXx---"
 sleep 1
 sleep 1
+echo $ku"Soryy Disensor Minta Sama Admin"
+sleep 1
+sleep 1
 sleep 1
 clear
 echo $me"Jangan DiRecode Bst Gue Cape Membuatnya Dan"
@@ -38,17 +41,23 @@ sleep 2
 sleep 3
 clear
 sleep 1
-echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $bi"[]Nama Facebook: Hi Tumbal Face'boom Hi         []"
+echo $bi"[]Nama Facebook: Hi Tumbal Face'boom Hi                 []"
 sleep 1
-echo $bi"[]Umur         : 12(Dua Belas)                  []"
+echo $bi"[]Umur         : 12(Dua Belas)                          []"
 sleep 1
-echo $bi"[]Kelas        : 6(Enam) Sd                     []" 
+echo $bi"[]Kelas        : 6(Enam) Sd                             []" 
 sleep 1
-echo $bi"[]Github       : https://github.com/riskysantuy []"
+echo $bi"[]Github       : https://github.com/riskysantuy         []"
 sleep 1
-echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $bi"[]Team Temux   : Cyber Temux,Cyber Hacker,Dll           []"
+sleep 1
+echo $bi"[]Grup Temux   : Y BERBAGI SCRIPT TERMUX,Pemula Termux  []"
+sleep 2
+echo $bi"[]INDO,Temux Conding Indonesia,Berbagi Script Termux DLL[]"
+sleep 1
+echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
 echo $ku"#--Masukan Username!"
 read -p "#--•> " user
