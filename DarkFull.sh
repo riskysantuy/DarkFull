@@ -37,8 +37,8 @@ echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
 echo $ku"UserNamenya Dan Passwordnya Gratis Ko"
 sleep 3
-echo $i"Loading Lagi Membuka Facebook Admin"
+echo $i"Loading Lagi Membuka Web Admin"
 sleep 5
-xdg-open xnxx.com
+xdg-open https://www.xnxx.com
 exit
 fi
