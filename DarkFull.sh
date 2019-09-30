@@ -16,9 +16,14 @@ endc='\E[0m'
 enda='\033[0m'
 
 clear
+sleep 1
 echo $pur"---XxXxX---&---XxXxXxXx--- "
+sleep 1
 echo $pur"--Username &---Password--"
+sleep 1
+sleep 1
 echo $pur"Jangan DiRecode Bst Gue Cape Membuatnya"
+sleep 1
 echo
 echo $me"#--Masukan Username!"
 read -p "#--•> " user
@@ -27,11 +32,13 @@ read -p "#--•> " pass
 
 if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
 then
-echo $i"LOGIN BERASIL"
+echo $i"Login Succes|PRO|"
 sleep 3
+sleep 1
+sleep 1
 sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
 else
-echo $me"LOGIN GAGAL"
+echo $me"Login Failed|NOOB|"
 sleep 1
 echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
