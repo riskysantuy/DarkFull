@@ -96,15 +96,9 @@ echo $cy"============================================"
 sleep 1
 echo $me"12.Santet Online                    "$i"|ON|"
 echo $cy"============================================"
-sleep 1
-echo $ku"a. Install Tools Termux             "$i"|ON|"
-sleep 1
-echo $ku"99.Exit To Lobey                    "$i"|ON|"
-echo $cy"============================================"
 sleep 2
-sleep 3
-echo $pur"["$pur"Masukan Pilihan Anda"$me"]"
-read -p "Nomor Berapa>>>:" pil
+echo $pur"["$pur"Masukan Pilihan Anda"$ku"]"
+read -p "Nomor Berapa>>>>>>>" pil
  
 if [ $pil = 01 ]
 then
@@ -116,18 +110,26 @@ cd Dark-Fb
 python2 dark.py
 fi
 
-;;
-
-#Tuan Badut
-
-2) clear
-toilet -f standard "Wait" -F gay
+if [ $pil = 02 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
 cd TOOLSINSTALLERv3
-sh TUANB4DUT.sh
+sh TUANB$DUT.sh
+fi
+ 
+if [ $pil = 03 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/fatonicyber/Darkcyber
+cd Darkcyber
+sh Darkcyber.sh
+fi
 
-
-;;
 
 #Facebok Target
 
@@ -137,164 +139,105 @@ git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 sh Darkcyber.sh
 
-
-;;
-
-#Fb-Premium
-
-4) clear
-toilet -f standard "Wait" -F gay
+if [ $pil = 04 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/pirmansx/mbf
 cd mbf
 python2 MBF.py
-
-
-;;
-
-#Bajingan
-
+fi
+ 
+if [ $pil = 05 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 5) clear
 toilet -f standard "Wait" -F gay
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
+fi
 
-
-;;
-
-#Rusmana-ID
-
-6) clear
-toilet -f standard "Wait" -F gay
+if [ $pil = 06 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 sh install.sh
-
-
-;;
-
-#Install Tools
-
-a) clear
-toilet -f standard "Wait" -F gay
+fi
+ 
+if [ $pil = 07 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
 sleep 1
-pkg update
-clear
-pkg upgrade
-clear
-pkg install php
-clear
-pkg install python2
-clear
-pkg install nano
-clear
-pkg install git
-clear
-pkg install lolcat
-clear
-gem install lolcat
-clear
-pkg install ruby
-clear
-pkg install cowsay
-clear
-sleep 1
-sleep 2
-toilet -f standard "Selesai" -F gay
-sleep 1
-sleep 2
-sh DarkFull.sh
-
-
-;;
-
-#Xtermuxrider
-
-7) clear
-toilet -f standard "Wait" -F gay
 git clone https://github.com/aldidefril556/XtermuxRider
 cd XtermuxRider
 sh canggih123.sh
 
+fi
 
-;;
-
-#Spam Wh
-
-8) clear
-toilet -f standard "Wait" -F gay
+if [ $pil = 08 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/4L13199/LITESPAM.git
 cd LITESPAM
 sh LITESPAM.sh
-
-
-;;
-
-#Spam SMS
-
-9) clear
-toilet -f standard "Wait" -F gay
+fi
+ 
+if [ $pil = 09 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/TERMUXID3/brutal-sms
 cd brutal-sms
 python2 run.py
-
-
-;;
-
-#ScDeface
-
-10) clear
-toilet -f standard "Wait" -F gay
+fi
+ 
+if [ $pil = 10 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Ubaii/script-deface-creator
 cd script-deface-creator
 python2 create.py
+fi
 
-
-#Spam Call
-
-11) clear
-toilet -f standard "Wait" -F gay
+if [ $pil = 11 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Aditya021/SpamCall
 cd SpamCall
 php SpamCall.php
-
-
-12) clear
-toilet -f standard "Wait" -F gay
+fi
+ 
+if [ $pil = 12 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
 python2 santet.py
+fi
 
-
-;;
-
-#Exit
-
-99) clear
-toilet -f standard "Wait" -F gay
-sleep 1
-sleep 2
-echo $ku"Napaknya Tidak Bisa Exit"
-sleep 2
-sleep 3
-echo $ku"Karena Ada Masalah Coba Dengan"
-sleep 3
-sleep 4
-echo $me"Ctrl+z Untuk Keluar TerimaKasih"
-sleep 5
-sleep 6
-sleep 7
-sh DarkFull.sh
-
-
-*) echo $ku"Maaf Yang Anda Cari Tidak Ada"
-sleep 1
-echo $ku"Coba Ulang Dari Awal"
-sleep 2
-sleep 1
-echo $ku"TERIMAKASIH BST"
-sleep 1
-sleep 2
-sleep 3
+if [ $pil = * ]
+then
+echo $i"Yang Anda Pilih Tidak Ada Dimenu"
+echo
+echo $i"Ulang Dari Awal Mampus Lo"
+echo "
 sh DarkFull.sh
 esac
+
