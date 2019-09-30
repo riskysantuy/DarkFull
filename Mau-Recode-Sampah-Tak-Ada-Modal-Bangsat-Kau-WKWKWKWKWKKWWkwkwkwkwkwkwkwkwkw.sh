@@ -62,7 +62,7 @@ echo $me"6. Rusmana-ID                       "$i"|ON|"
 echo $pur"Tidak Pake User & Pass"
 echo $cy"============================================"
 sleep 2
-echo $me"a. Install Tools
+echo $me"a. Install Tools                    "$i"|ON|"
 echo $cy"============================================"
 sleep 1
 sleep 2
