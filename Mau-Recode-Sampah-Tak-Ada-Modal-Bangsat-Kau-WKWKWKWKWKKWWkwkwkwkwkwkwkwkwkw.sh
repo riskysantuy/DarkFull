@@ -260,8 +260,6 @@ cd SpamCall
 php SpamCall.php
 fi
 
-#SantetOnline
-
 12) clear
 toilet -f standard "Wait" -F gay
 git clone https://github.com/Gameye98/santet-online
@@ -274,22 +272,22 @@ fi
 #Exit
 
 99) clear
-figlet -f slant "W A I T"|Ulolcat
+sleep 1
+echo $i"Semoga Anda Menggunakan Kembali Tools Ini"
+sleep 1
 sleep 2
-echo $cy"Terima Kasih sudah mengunakan Tools ini"
-sleep 2
-echo $i"Semoga Anda Senang Menggukan Tools Kami"
-sleep 2
-echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
-sleep 2
-echo $ku"Facebook :"$i" Hi Tumbal Face'boom Hi"
-echo $ku"WhatsApp :"$i" ***********"
-sleep 2
-echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
-sleep 2
+echo $Ku"Jika Ada Masalah Dengan Tools Ini Bisa"
+sleep 4
+echo $ku"Mengsaih Tau Kepada Admin Via"
+sleep 1
+sleep 3
+echo $bi"===Facebook===>>> Hi Tumbal Face'boom Hi"
+sleep 1
+echo "
+sleep 1
+echo $me"======>>>Terima Kasih<<<<====="
 exit
 fi
-
 
 
 *) echo $ku"Maaf Yang Anda Cari Tidak Ada"
