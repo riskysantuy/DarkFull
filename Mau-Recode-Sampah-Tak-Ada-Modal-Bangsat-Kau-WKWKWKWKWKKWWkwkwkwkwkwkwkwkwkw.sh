@@ -30,18 +30,22 @@ echo $i"<[∆"   $me"Team   : Cyber Termux Indonesia"
 echo $bi"<[∆"  $bi"Contact: 0821-6979-67**"
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo
+cowsay -f eyes "WELCOME TO TERMUX" | lolcat
+toilet -f standard "ToolsFull" -F gay
+
 sleep 3
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 echo $i"[] SILAHKAN MENGGUNAKAN TOOLS WORK 2019 []"
 echo $i"[] Tools Yang Tersedia Cuma Ada 6(Enam) []"
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 echo
+echo $pur"CTRL+z Stop" 
 sleep 3
 echo $cy"============================================"
-echo $bi"1. DarkFB 1.3 "
+echo $bi"1. DarkFB 1.3                           |ON|"
 echo $cy"============================================"
 sleep 1
-echo $me"2. Tuan-Badut "
+echo $me"2. Tuan-Badut                           |ON|"
 echo $cy"============================================"
 sleep 1
 echo $bi"3. Facebook Target"
@@ -85,8 +89,8 @@ sh TUANB4DUT.sh
 #Facebok Target
 
 3) clear
-git clone https://github.com/xHak9x/fbi
-cd fbi
+git clone https://github.com/fatonicyber/
+cd
 pip2 install -r requirements.txt
 python2 fbi.py
 
@@ -124,4 +128,5 @@ sh install.sh
 ;;
 
 *) echo "Maaf Yang Anda Cari Tidak Ada Coba Lagi"
+sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
 esac
