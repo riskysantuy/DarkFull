@@ -42,23 +42,23 @@ echo
 echo $pur"CTRL+z Stop" 
 sleep 3
 echo $cy"============================================"
-echo $bi"1. DarkFB 1.3"                       $i"|ON|"
+echo $bi"1. DarkFB 1.3                       "$i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $me"2. Tuan-Badut"                       $i"|ON|"
+echo $me"2. Tuan-Badut                       "$i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $bi"3. DarkCyber      "                  $i"|ON|"
+echo $bi"3. DarkCyber                        "$i"|ON|"
 echo $ku"User:BOCIL Pass:N00B"                
 echo $cy"============================================"
 sleep 1
-echo $me"4. Multi-Bruser-Facebook  (MBF)"     $i"|ON|"
+echo $me"4. Multi-Bruser-Facebook  (MBF)     "$i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $bi"5. BAJINGANv6"                       $i"|ON|     
+echo $bi"5. BAJINGANv6                       "$i"|ON|"     
 echo $cy"============================================"
 sleep 1
-echo $me"6. Rusmana-ID"                       $i"|ON|
+echo $me"6. Rusmana-ID                       "$i"|ON|"
 echo $pur"  Tidak Pake User & Pass"
 echo $cy"============================================"
 sleep 2
@@ -127,6 +127,13 @@ sh install.sh
 
 ;;
 
-*) echo "Maaf Yang Anda Cari Tidak Ada Coba Lagi"
-sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
+*) echo $ku"Maaf Yang Anda Cari Tidak Ada Coba Lagi"
+echo $ku"Coba Kembali Dari Awal"
+echo $ku"TERIMAKASIH BST"
+sleep 1
+sleep 2
+sleep 3
+sleep 4
+sleep 5
+sh DarkFull.sh
 esac
