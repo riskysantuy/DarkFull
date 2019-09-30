@@ -59,8 +59,12 @@ echo $bi"5. BAJINGANv6                       "$i"|ON|"
 echo $cy"============================================"
 sleep 1
 echo $me"6. Rusmana-ID                       "$i"|ON|"
-echo $pur"  Tidak Pake User & Pass"
+echo $pur"Tidak Pake User & Pass"
 echo $cy"============================================"
+sleep 2
+echo $me"a. Install Tools
+echo $cy"============================================"
+sleep 1
 sleep 2
 echo $cy "╭─"$pu"Pilihan Nomor"
 read -p " ╰──────•Mr.RiskyGx•>> " pil
@@ -70,6 +74,7 @@ case $pil in
 #DarkFB 1.6
 
 1) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
 python2 dark.py
@@ -80,6 +85,7 @@ python2 dark.py
 #Tuan Badut
 
 2) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
 cd TOOLSINSTALLERv3
 sh TUANB4DUT.sh
@@ -90,6 +96,7 @@ sh TUANB4DUT.sh
 #Facebok Target
 
 3) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 sh Darkcyber.sh
@@ -100,6 +107,7 @@ sh Darkcyber.sh
 #Fb-Premium
 
 4) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/pirmansx/mbf
 cd mbf
 python2 MBF.py
@@ -110,6 +118,7 @@ python2 MBF.py
 #Bajingan
 
 5) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
@@ -120,6 +129,7 @@ sh BAJINGAN.sh
 #Rusmana-ID
 
 6) clear
+toilet -f standard "Wait" -F gay
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 sh install.sh
@@ -127,13 +137,38 @@ sh install.sh
 
 ;;
 
-*) echo $ku"Maaf Yang Anda Cari Tidak Ada Coba Lagi"
-echo $ku"Coba Kembali Dari Awal"
+#Install Tools
+
+a) clear
+toilet -f standard "Wait" -F gay
+pkg update
+clear
+pkg upgrade
+clear
+pkg install php
+clear
+pkg install python2
+clear
+pkg install nano
+clear
+pkg install git
+clear
+sleep 1
+sleep 2
+toilet -f standard "Selesai" -F gay
+clear
+sh DarkFull.sh
+
+;;
+
+*) echo $ku"Maaf Yang Anda Cari Tidak Ada"
+sleep 1
+echo $ku"Coba Ulang Dari Awal"
+sleep 2
+sleep 1
 echo $ku"TERIMAKASIH BST"
 sleep 1
 sleep 2
 sleep 3
-sleep 4
-sleep 5
 sh DarkFull.sh
 esac
