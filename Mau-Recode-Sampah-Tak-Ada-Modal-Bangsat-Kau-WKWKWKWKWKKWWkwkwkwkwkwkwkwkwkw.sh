@@ -103,19 +103,18 @@ echo $ku"99.Exit To Lobey                    "$i"|ON|"
 echo $cy"============================================"
 sleep 2
 sleep 3
-echo $cy "╭─"$pu"Pilihan Nomor"
-read -p " ╰──────•Mr.RiskyGx•>> " pil
-
-case $pil in
-
-#DarkFB 1.6
-
-1) clear
-toilet -f standard "Wait" -F gay
+echo $pur"["$pur"Masukan Pilihan Anda"$me"]"
+read -p "Nomor Berapa>>>:" pil
+ 
+if [ $pil = 01 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
 git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
 python2 dark.py
-
+fi
 
 ;;
 
