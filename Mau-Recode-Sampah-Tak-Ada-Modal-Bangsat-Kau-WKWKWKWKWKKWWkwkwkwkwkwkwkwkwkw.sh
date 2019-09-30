@@ -42,22 +42,23 @@ echo
 echo $pur"CTRL+z Stop" 
 sleep 3
 echo $cy"============================================"
-echo $bi"1. DarkFB 1.3                           |ON|"
+echo $bi"1. DarkFB 1.3"                       $i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $me"2. Tuan-Badut                           |ON|"
+echo $me"2. Tuan-Badut"                       $i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $bi"3. Facebook Target"
+echo $bi"3. DarkCyber      "                  $i"|ON|"
+echo $ku"User:BOCIL Pass:N00B"                
 echo $cy"============================================"
 sleep 1
-echo $me"4. Multi-Bruser-Facebook  (MBF)"
+echo $me"4. Multi-Bruser-Facebook  (MBF)"     $i"|ON|"
 echo $cy"============================================"
 sleep 1
-echo $bi"5. BAJINGANv6"
+echo $bi"5. BAJINGANv6"                       $i"|ON|     
 echo $cy"============================================"
 sleep 1
-echo $me"6. Rusmana-ID"
+echo $me"6. Rusmana-ID"                       $i"|ON|
 echo $pur"  Tidak Pake User & Pass"
 echo $cy"============================================"
 sleep 2
@@ -89,10 +90,9 @@ sh TUANB4DUT.sh
 #Facebok Target
 
 3) clear
-git clone https://github.com/fatonicyber/
-cd
-pip2 install -r requirements.txt
-python2 fbi.py
+git clone https://github.com/fatonicyber/Darkcyber
+cd Darkcyber
+sh Darkcyber.sh
 
 
 ;;
