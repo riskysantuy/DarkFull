@@ -22,22 +22,36 @@ enda='\033[0m'
 
 clear
 echo
+sleep 1
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
+sleep 1
 echo $bi"<[∆"      $i"Kumpulan Tools Work"
+sleep 1
 echo $pur"<[∆"      $pur"Berbagai Jenis"
+sleep 1
 echo $ku"<[∆"  $ku"Github : riskysantuy(Riski-Santuy)"
+sleep 1
 echo $i"<[∆"   $me"Team   : Cyber Termux Indonesia"
+sleep 1
 echo $bi"<[∆"  $bi"Contact: 0821-6979-67**"
+sleep 1
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
+sleep 1
+sleep 2
 echo
 cowsay -f eyes "WELCOME TO TERMUX" | lolcat
-toilet -f standard "ToolsFull" -F gay
-
+sleep 1
+toilet -f standard "Tools-Lengkap" -F gay
+sleep 1
 sleep 3
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
+sleep 2
 echo $i"[] SILAHKAN MENGGUNAKAN TOOLS WORK 2019 []"
+sleep 1
 echo $i"[] Tools Yang Tersedia Cuma Ada 6(Enam) []"
+sleep 1
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
+sleep 1
 echo
 echo $pur"CTRL+z Stop" 
 sleep 3
@@ -141,6 +155,7 @@ sh install.sh
 
 a) clear
 toilet -f standard "Wait" -F gay
+sleep 1
 pkg update
 clear
 pkg upgrade
@@ -153,10 +168,19 @@ pkg install nano
 clear
 pkg install git
 clear
+pkg install lolcat
+clear
+gem install lolcat
+clear
+pkg install ruby
+clear
+pkg install cowsay
+clear
 sleep 1
 sleep 2
 toilet -f standard "Selesai" -F gay
-clear
+sleep 1
+sleep 2
 sh DarkFull.sh
 
 ;;
