@@ -17,14 +17,29 @@ enda='\033[0m'
 
 clear
 sleep 1
-echo $pur"---XxXxX---&---XxXxXxXx--- "
+echo $pur"---Indonesia---&---Merdeka--- "
+sleep 1
+clear
 sleep 1
 echo $pur"--Username &---Password--"
 sleep 1
-sleep 1
+clear
 echo $pur"Jangan DiRecode Bst Gue Cape Membuatnya"
 sleep 1
+sleep 1
+clear
 echo
+sleep 1
+echo $ku"[][][][][][][][][][][][][][][][][][][][][][][][]"
+sleep 1
+echo $ku"[]Nama Facebook:$me"Hi Tumbal Face'boom Hi"$ku"[]"
+sleep 1
+echo $ku"[]Umur         :$me"12(Dua Belas)         "$ku"[]"
+sleep 1
+echo $ku"[]Kelas        :$me"6(Enam) Sd            "$ku"[]" 
+sleep 1
+echo $ku"[][][][][][][][][][][][][][][][][][][][][][][][]"
+sleep 1
 echo $me"#--Masukan Username!"
 read -p "#--•> " user
 echo $me"#--Masukan Password!"
