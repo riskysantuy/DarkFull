@@ -76,7 +76,6 @@ sleep 1
 echo $i"Loading Lagi Membuka Web Admin"
 sleep 5
 xdg-open https://www.xnxx.com
-sleep 1
-sleep 1
-sleep 1
-sh DarkFull.sh
+sleep 5
+exit
+fi
