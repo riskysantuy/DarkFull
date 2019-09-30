@@ -41,17 +41,16 @@ echo $cy"============================================"
 echo $bi"1. DarkFB 1.3 "
 echo $cy"============================================"
 sleep 1
-echo $me"2. Dark-Rm--Xx "
+echo $me"2. Tuan-Badut "
 echo $cy"============================================"
 sleep 1
-echo $bi"3. Black-FB-Premium"
+echo $bi"3. Facebook Target"
 echo $cy"============================================"
 sleep 1
-echo $me"4. Drak-Premium"
-echo $ku"   Anti Dari Cp(Check-Point)"
+echo $me"4. Multi-Bruser-Facebook  (MBF)"
 echo $cy"============================================"
 sleep 1
-echo $bi"5. Dark-HANTUKILERS"
+echo $bi"5. BAJINGANv6"
 echo $cy"============================================"
 sleep 1
 echo $me"6. Rusmana-ID"
@@ -73,22 +72,23 @@ python2 dark.py
 
 ;;
 
-#DarkFB 1.8
+#Tuan Badut
 
 2) clear
-git clone https://github.com/riskysantuy/Rm--Xx
-cd Rm--Xx
-sh rm-xx.sh
+git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+cd TOOLSINSTALLERv3
+sh TUANB4DUT.sh
 
 
 ;;
 
-#Black FB premium
+#Facebok Target
 
 3) clear
-git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
-cd Black-Fb-Premium
-python2 Black-Fb.py
+git clone https://github.com/xHak9x/fbi
+cd fbi
+pip2 install -r requirements.txt
+python2 fbi.py
 
 
 ;;
@@ -96,19 +96,19 @@ python2 Black-Fb.py
 #Fb-Premium
 
 4) clear
-git clone https://github.com/riskysantuy/Dark-Work
-cd Dark-Work
-python2 Dark.py
+git clone https://github.com/pirmansx/mbf
+cd mbf
+python2 MBF.py
 
 
 ;;
 
-#Kota-Dumai
+#Bajingan
 
 5) clear
-git clone https://github.com/Kota-Dumai/Hantu-Kilers
-cd Hantu-Kilers
-python2 dumai.pyc
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
 
 
 ;;
@@ -123,5 +123,5 @@ sh install.sh
 
 ;;
 
-*) echo "Maaf menu yg anda cari tidak tersedia"
+*) echo "Maaf Yang Anda Cari Tidak Ada Coba Lagi"
 esac
