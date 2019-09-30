@@ -17,14 +17,17 @@ enda='\033[0m'
 
 clear
 sleep 1
-echo $pur"---Indonesia---&---Merdeka--- "
+echo $i"---Indonesia---&---Merdeka--- "
 sleep 1
 clear
 sleep 1
-echo $pur"--Username &---Password--"
+echo $pur"---Username----&---Password---"
 sleep 1
 clear
-echo $pur"Jangan DiRecode Bst Gue Cape Membuatnya"
+echo $me"Jangan DiRecode Bst Gue Cape Membuatnya Dan"
+echo $me"Menanambah Scerip Kalian Disini Tolong DiShearKan"
+echo $me"Kepada Teman2 Atau Grup Lainnya Terima Kasih"
+sleep 1
 sleep 1
 sleep 1
 clear
