@@ -47,13 +47,12 @@ echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 echo $i"[] SILAHKAN MENGGUNAKAN TOOLS WORK 2019 []"
 sleep 1
-echo $i"[] Tools Yang Tersedia Cuma Ada 6(Enam) []"
+echo $i"[] Tools Yang Tersedia Cuma Ada 12 Tools[]"
 sleep 1
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
 echo
-echo $pur"CTRL+z Stop" 
-echo $ku"Jangan Lupa Kelik a Untuk Install Tools Ini :)"
+echo $pur"CTRL+z Stop" "
 sleep 3
 sleep 1
 sleep 4
@@ -232,12 +231,23 @@ cd santet-online
 python2 santet.py
 fi
 
-if [ $pil = * ]
+if [ $pil = 00 ]
 then
-echo $i"Yang Anda Pilih Tidak Ada Dimenu"
-echo
-echo $i"Ulang Dari Awal Mampus Lo"
-echo "
-sh DarkFull.sh
-esac
+clear
+figlet -f slant "W A I T"|Ulolcat
+sleep 2
+echo $cy"Terima Kasih sudah mengunakan Tools ini"
+sleep 2
+echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
+sleep 2
+echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
+sleep 2
+echo $ku"Facebook :"$i" Hi Tumbal Face'boom HI"
+echo $ku"WhatsApp :"$i" ***********"
+sleep 2
+echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
+sleep 2
+echo $pur"SUBSCRIBE MY CHANNEL { BABANG HACK }"
+exit
+fi
 
