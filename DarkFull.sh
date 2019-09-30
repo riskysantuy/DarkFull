@@ -18,13 +18,14 @@ enda='\033[0m'
 clear
 echo "---XxXxX---&---XxXxXxXx--- "
 echo "--Username &---Password--"
+echo "Jangan DiRecode Bst Gue Cape Membuatnya"
 echo
 echo $i"#--Masukan Username!"
 read -p "#--•> " user
 echo $i"#--Masukan Password!"
 read -p "#--•> " pass
 
-if [ $user = 'Risky' ] | [ $pass = 'Santuy' ]
+if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
 then
 echo $cy"LOGIN BERASIL"
 sleep 3
@@ -38,6 +39,6 @@ echo $i"UserNamenya Dan Passwordnya Gratis Ko"
 sleep 3
 echo $i"Loading Lagi Membuka Facebook Admin"
 sleep 5
-xdg-open https://www.facebook.com/cewekcantik122
+xdg-open xnxx.com
 exit
 fi
