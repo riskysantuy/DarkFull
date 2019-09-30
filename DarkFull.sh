@@ -17,13 +17,11 @@ enda='\033[0m'
 
 clear
 sleep 1
-echo $i"---Indonesia---&---Merdeka--- "
+echo $i"---UserName----&---Password---"
 sleep 1
 sleep 1
 sleep 1
-clear
-sleep 1
-echo $pur"---Username----&---Password---"
+echo $i"---Indonesia----&---Merdeka---"
 sleep 1
 sleep 1
 sleep 1
@@ -36,18 +34,21 @@ sleep 1
 sleep 1
 sleep 1
 sleep 1
+sleep 2
+sleep 3
 clear
-echo
 sleep 1
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $ku"[]Nama Facebook:Hi Tumbal Face'boom Hi         []"
+echo $bi"[]Nama Facebook:Hi Tumbal Face'boom Hi          []"
 sleep 1
-echo $i"[]Umur         :12(Dua Belas)                  []"
+echo $bi"[]Umur         :12(Dua Belas)                   []"
 sleep 1
-echo $pur"[]Kelas        :6(Enam) Sd                     []" 
+echo $bi"[]Kelas        :6(Enam) Sd                      []" 
 sleep 1
-echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $bi"[]Github       :https://github.com/riskysantuy  []"
+sleep 1
+echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
 echo $bi"#--Masukan Username!"
 read -p "#--•> " user
@@ -68,14 +69,15 @@ echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
 echo $ku"UserName & Password Gratis :P"
 sleep 3
-echo $bi"Usernamenya Adalah Bangsat"
+echo $bi"Usernamenya Adalah Indonesia"
 sleep 1
 sleep 1
-echo $bi"Passwordnya Adalah Kau"
+echo $bi"Passwordnya Adalah Merdeka"
 sleep 1
 echo $i"Loading Lagi Membuka Web Admin"
 sleep 5
 xdg-open https://www.xnxx.com
 sleep 5
-exit
+sleep 1
+sh DarkFull.sh
 fi
