@@ -85,7 +85,7 @@ sleep 1
 echo $ku"8. Spam Whatshaap                   "$i"|ON|"
 echo $cy"============================================"
 sleep 2
-echo $bi"9. Spam SMS                      "$me"Maslah"
+echo $bi"9. Spam SMS                          "$me"|Maslah|"
 echo $cy"============================================"
 sleep 1
 echo $ku"10.Script Deface Creator            "$i"|ON|"
@@ -115,7 +115,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
 python2 dark.py
-fi  
+
 
 ;;
 
@@ -126,7 +126,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
 cd TOOLSINSTALLERv3
 sh TUANB4DUT.sh
-fi
+
 
 ;;
 
@@ -137,7 +137,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 sh Darkcyber.sh
-fi
+
 
 ;;
 
@@ -148,7 +148,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/pirmansx/mbf
 cd mbf
 python2 MBF.py
-fi
+
 
 ;;
 
@@ -159,7 +159,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
-fi
+
 
 ;;
 
@@ -170,7 +170,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 sh install.sh
-fi
+
 
 ;;
 
@@ -205,7 +205,7 @@ toilet -f standard "Selesai" -F gay
 sleep 1
 sleep 2
 sh DarkFull.sh
-fi
+
 
 ;;
 
@@ -216,7 +216,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/aldidefril556/XtermuxRider
 cd XtermuxRider
 sh canggih123.sh
-fi
+
 
 ;;
 
@@ -227,7 +227,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/4L13199/LITESPAM.git
 cd LITESPAM
 sh LITESPAM.sh
-fi
+
 
 ;;
 
@@ -238,7 +238,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/TERMUXID3/brutal-sms
 cd brutal-sms
 python2 run.py
-fi
+
 
 ;;
 
@@ -249,7 +249,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Ubaii/script-deface-creator
 cd script-deface-creator
 python2 create.py
-fi
+
 
 #Spam Call
 
@@ -258,36 +258,34 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Aditya021/SpamCall
 cd SpamCall
 php SpamCall.php
-fi
+
 
 12) clear
 toilet -f standard "Wait" -F gay
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
 python2 santet.py
-fi
+
 
 ;;
 
 #Exit
 
 99) clear
-sleep 1
-echo $i"Semoga Anda Menggunakan Kembali Tools Ini"
+toilet -f standard "Wait" -F gay
 sleep 1
 sleep 2
-echo $Ku"Jika Ada Masalah Dengan Tools Ini Bisa"
-sleep 4
-echo $ku"Mengsaih Tau Kepada Admin Via"
-sleep 1
+echo $ku"Napaknya Tidak Bisa Exit"
+sleep 2
 sleep 3
-echo $bi"===Facebook===>>> Hi Tumbal Face'boom Hi"
-sleep 1
-echo "
-sleep 1
-echo $me"======>>>Terima Kasih<<<<====="
-exit
-fi
+echo $ku"Karena Ada Masalah Coba Dengan"
+sleep 3
+sleep 4
+echo $me"Ctrl+z Untuk Keluar TerimaKasih"
+sleep 5
+sleep 6
+sleep 7
+sh DarkFull.sh
 
 
 *) echo $ku"Maaf Yang Anda Cari Tidak Ada"
