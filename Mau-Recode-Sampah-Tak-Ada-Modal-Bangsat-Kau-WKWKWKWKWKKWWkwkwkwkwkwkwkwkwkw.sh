@@ -24,66 +24,69 @@ clear
 echo
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo $bi"<[∆"      $i"Kumpulan Tools Work"
-echo $pur"<[∆"      $i"Berbagai Jenis"
-echo $ku"<[∆"  $cy"Github : riskysantuy(Riski-Santuy)"
-echo $i"<[∆"   $cy"Team   : Cyber Termux Indonesia"
-echo $bi"<[∆"  $pu"Contact: 0821-6979-67**"
+echo $pur"<[∆"      $pur"Berbagai Jenis"
+echo $ku"<[∆"  $ku"Github : riskysantuy(Riski-Santuy)"
+echo $i"<[∆"   $me"Team   : Cyber Termux Indonesia"
+echo $bi"<[∆"  $bi"Contact: 0821-6979-67**"
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 echo
 sleep 3
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 echo $i"[] SILAHKAN MENGGUNAKAN TOOLS WORK 2019 []"
-echo $i"[] Tools Yang Tersedia Cuma Ada         []"
+echo $i"[] Tools Yang Tersedia Cuma Ada 6(Enam) []"
 echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 echo
 sleep 3
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
-echo $bi"1. DarkFB 1.6 "
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $cy"============================================"
+echo $bi"1. DarkFB 1.3 "
+echo $cy"============================================"
 sleep 1
-echo $me"2. DarkFB 1.8 "
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $me"2. Dark-Rm--Xx "
+echo $cy"============================================"
 sleep 1
 echo $bi"3. Black-FB-Premium"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $cy"============================================"
 sleep 1
 echo $me"4. Drak-Premium"
 echo $ku"   Anti Dari Cp(Check-Point)"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $cy"============================================"
 sleep 1
 echo $bi"5. Dark-HANTUKILERS"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $cy"============================================"
 sleep 1
 echo $me"6. Rusmana-ID"
 echo $pur"  Tidak Pake User & Pass"
-echo $cy"++++++++++++++++++++++++++++++++++++++++++++"
+echo $cy"============================================"
 sleep 2
 echo $cy "╭─"$pu"Pilihan Nomor"
-read -p " ╰──────•Mr.Risky•>> " pil
+read -p " ╰──────•Mr.RiskyGx•>> " pil
 
 case $pil in
 
 #DarkFB 1.6
 
-1) git clone https://github.com/pashayogi/SETAN.git
-cd SETAN
-python2 SETAN.py
-
+1) clear
+git clone https://github.com/Mr-XsZ/Dark-Fb
+cd Dark-Fb
+python2 dark.py
+  
 
 ;;
 
 #DarkFB 1.8
 
-2) git clone http://github.com/Mr-XsZ/Dark-Fb
-cd Dark-FB
-bash install.sh
+2) clear
+git clone https://github.com/riskysantuy/Rm--Xx
+cd Rm--Xx
+sh rm-xx.sh
 
 
 ;;
 
 #Black FB premium
 
-3) git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
+3) clear
+git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
 cd Black-Fb-Premium
 python2 Black-Fb.py
 
@@ -92,7 +95,8 @@ python2 Black-Fb.py
 
 #Fb-Premium
 
-4) git clone https://github.com/riskysantuy/Dark-Work
+4) clear
+git clone https://github.com/riskysantuy/Dark-Work
 cd Dark-Work
 python2 Dark.py
 
@@ -101,7 +105,8 @@ python2 Dark.py
 
 #Kota-Dumai
 
-5) git clone https://github.com/Kota-Dumai/Hantu-Kilers
+5) clear
+git clone https://github.com/Kota-Dumai/Hantu-Kilers
 cd Hantu-Kilers
 python2 dumai.pyc
 
@@ -110,9 +115,10 @@ python2 dumai.pyc
 
 #Rusmana-ID
 
-6) git clone https://github.com/Rusmana-ID/rus
+6) clear
+git clone https://github.com/Rusmana-ID/rus
 cd rus
-sh isntall.sh
+sh install.sh
 
 
 ;;
