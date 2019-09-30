@@ -21,7 +21,6 @@ endc='\E[0m'
 enda='\033[0m'
 
 clear
-echo
 sleep 1
 echo $me"<[∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆]>"
 sleep 1
@@ -54,7 +53,10 @@ echo $i"[][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
 echo
 echo $pur"CTRL+z Stop" 
+echo $ku"Jangan Lupa Kelik a Untuk Install Tools Ini :)"
 sleep 3
+sleep 1
+sleep 4
 echo $cy"============================================"
 echo $bi"1. DarkFB 1.3                       "$i"|ON|"
 echo $cy"============================================"
@@ -70,6 +72,7 @@ echo $me"4. Multi-Bruser-Facebook  (MBF)     "$i"|ON|"
 echo $cy"============================================"
 sleep 1
 echo $bi"5. BAJINGANv6                       "$i"|ON|"     
+echo $bi"User:BAJINGAN Pass:Gans
 echo $cy"============================================"
 sleep 1
 echo $me"6. Rusmana-ID                       "$i"|ON|"
