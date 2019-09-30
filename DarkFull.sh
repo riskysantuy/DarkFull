@@ -19,9 +19,13 @@ clear
 sleep 1
 echo $i"---Indonesia---&---Merdeka--- "
 sleep 1
+sleep 1
+sleep 1
 clear
 sleep 1
 echo $pur"---Username----&---Password---"
+sleep 1
+sleep 1
 sleep 1
 clear
 echo $me"Jangan DiRecode Bst Gue Cape Membuatnya Dan"
@@ -30,22 +34,24 @@ echo $me"Kepada Teman2 Atau Grup Lainnya Terima Kasih"
 sleep 1
 sleep 1
 sleep 1
+sleep 1
+sleep 1
 clear
 echo
 sleep 1
-echo $ku"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $ku"[]Nama Facebook:$me"Hi Tumbal Face'boom Hi"$ku"[]"
+echo $ku"[]Nama Facebook:Hi Tumbal Face'boom Hi         []"
 sleep 1
-echo $ku"[]Umur         :$me"12(Dua Belas)         "$ku"[]"
+echo $i"[]Umur         :12(Dua Belas)                  []"
 sleep 1
-echo $ku"[]Kelas        :$me"6(Enam) Sd            "$ku"[]" 
+echo $pur"[]Kelas        :6(Enam) Sd                     []" 
 sleep 1
-echo $ku"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $me"#--Masukan Username!"
+echo $bi"#--Masukan Username!"
 read -p "#--•> " user
-echo $me"#--Masukan Password!"
+echo $bi"#--Masukan Password!"
 read -p "#--•> " pass
 
 if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
@@ -60,10 +66,17 @@ echo $me"Login Failed|NOOB|"
 sleep 1
 echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
-echo $ku"UserNamenya Dan Passwordnya Gratis Ko"
+echo $ku"UserName & Password Gratis :P"
 sleep 3
+echo $bi"Usernamenya Adalah Bangsat"
+sleep 1
+sleep 1
+echo $bi"Passwordnya Adalah Kau"
+sleep 1
 echo $i"Loading Lagi Membuka Web Admin"
 sleep 5
 xdg-open https://www.xnxx.com
-exit
-fi
+sleep 1
+sleep 1
+sleep 1
+sh DarkFull.sh
