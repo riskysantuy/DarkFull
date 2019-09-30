@@ -17,11 +17,11 @@ enda='\033[0m'
 
 clear
 sleep 1
-echo $i"---UserName----&---Password---"
+echo $i"----UserName----&---Password---"
 sleep 1
 sleep 1
 sleep 1
-echo $i"---Indonesia----&---Merdeka---"
+echo $i"----XxXxXxxX----&---XxXxXxXx---"
 sleep 1
 sleep 1
 sleep 1
@@ -40,24 +40,27 @@ clear
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $bi"[]Nama Facebook:Hi Tumbal Face'boom Hi          []"
+echo $bi"[]Nama Facebook: Hi Tumbal Face'boom Hi         []"
 sleep 1
-echo $bi"[]Umur         :12(Dua Belas)                   []"
+echo $bi"[]Umur         : 12(Dua Belas)                  []"
 sleep 1
-echo $bi"[]Kelas        :6(Enam) Sd                      []" 
+echo $bi"[]Kelas        : 6(Enam) Sd                     []" 
 sleep 1
-echo $bi"[]Github       :https://github.com/riskysantuy  []"
+echo $bi"[]Github       : https://github.com/riskysantuy []"
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
-echo $bi"#--Masukan Username!"
+echo $ku"#--Masukan Username!"
 read -p "#--•> " user
-echo $bi"#--Masukan Password!"
+echo $ku"#--Masukan Password!"
 read -p "#--•> " pass
 
 if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
 then
 echo $i"Login Succes|PRO|"
+sleep 1
+sleep 2
+echo $i"Kamu Sangan |PRO|"
 sleep 3
 sleep 1
 sleep 1
@@ -65,19 +68,24 @@ sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.s
 else
 echo $me"Login Failed|NOOB|"
 sleep 1
+sleep 1
+echo $me"Kamu Cacat  |N00B|"
+sleep 1
 echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
 echo $ku"UserName & Password Gratis :P"
 sleep 3
-echo $bi"Usernamenya Adalah Indonesia"
+echo $bi"Silahkan Minta UserName Dengan Admin"
 sleep 1
 sleep 1
-echo $bi"Passwordnya Adalah Merdeka"
+echo $bi"Silahkan Minta Password Dengan Admin"
 sleep 1
-echo $i"Loading Lagi Membuka Web Admin"
+echo $i"Loading... Membuka Facebook Admin"
 sleep 5
-xdg-open https://www.xnxx.com
+xdg-open https://www.facebook.com/cewekcantik122
 sleep 5
 sleep 1
+sleep 1
+sleep 0
 sh DarkFull.sh
 fi
