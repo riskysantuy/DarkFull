@@ -16,26 +16,26 @@ endc='\E[0m'
 enda='\033[0m'
 
 clear
-echo "---XxXxX---&---XxXxXxXx--- "
-echo "--Username &---Password--"
-echo "Jangan DiRecode Bst Gue Cape Membuatnya"
+echo $pur"---XxXxX---&---XxXxXxXx--- "
+echo $pur"--Username &---Password--"
+echo $pur"Jangan DiRecode Bst Gue Cape Membuatnya"
 echo
-echo $i"#--Masukan Username!"
+echo $me"#--Masukan Username!"
 read -p "#--•> " user
-echo $i"#--Masukan Password!"
+echo $me"#--Masukan Password!"
 read -p "#--•> " pass
 
 if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
 then
-echo $cy"LOGIN BERASIL"
+echo $i"LOGIN BERASIL"
 sleep 3
 sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
 else
-echo $cy"LOGIN GAGAL"
+echo $me"LOGIN GAGAL"
 sleep 1
-echo $i"Mau UserName & Password Dark Full Ini :)"
+echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
-echo $i"UserNamenya Dan Passwordnya Gratis Ko"
+echo $ku"UserNamenya Dan Passwordnya Gratis Ko"
 sleep 3
 echo $i"Loading Lagi Membuka Facebook Admin"
 sleep 5
