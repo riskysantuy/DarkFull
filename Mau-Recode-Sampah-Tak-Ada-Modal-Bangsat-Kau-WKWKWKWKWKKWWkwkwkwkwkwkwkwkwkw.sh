@@ -72,17 +72,37 @@ echo $me"4. Multi-Bruser-Facebook  (MBF)     "$i"|ON|"
 echo $cy"============================================"
 sleep 1
 echo $bi"5. BAJINGANv6                       "$i"|ON|"     
-echo $bi"User:BAJINGAN Pass:Gans
+echo $bi"User:BAJINGAN Pass:Gans"
 echo $cy"============================================"
 sleep 1
 echo $me"6. Rusmana-ID                       "$i"|ON|"
 echo $pur"Tidak Pake User & Pass"
 echo $cy"============================================"
 sleep 2
-echo $me"a. Install Tools                    "$i"|ON|"
+echo $me"7. XtermuxRider                     "$i"|ON|"
 echo $cy"============================================"
 sleep 1
+echo $ku"8. Spam Whatshaap                   "$i"|ON|"
+echo $cy"============================================"
 sleep 2
+echo $bi"9. Spam SMS                      "$me"Maslah"
+echo $cy"============================================"
+sleep 1
+echo $ku"10.Script Deface Creator            "$i"|ON|"
+echo $cy"============================================"
+sleep 1
+echo $bi"11.Spam Call                        "$i"|ON|"
+echo $cy"============================================"
+sleep 1
+echo $me"12.Santet Online                    "$i"|ON|"
+echo $cy"============================================"
+sleep 1
+echo $ku"a. Install Tools Termux             "$i"|ON|"
+sleep 1
+echo $ku"99.Exit To Lobey                    "$i"|ON|"
+echo $cy"============================================"
+sleep 2
+sleep 3
 echo $cy "╭─"$pu"Pilihan Nomor"
 read -p " ╰──────•Mr.RiskyGx•>> " pil
 
@@ -95,7 +115,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
 python2 dark.py
-  
+fi  
 
 ;;
 
@@ -106,7 +126,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
 cd TOOLSINSTALLERv3
 sh TUANB4DUT.sh
-
+fi
 
 ;;
 
@@ -117,7 +137,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 sh Darkcyber.sh
-
+fi
 
 ;;
 
@@ -128,7 +148,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/pirmansx/mbf
 cd mbf
 python2 MBF.py
-
+fi
 
 ;;
 
@@ -139,7 +159,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
-
+fi
 
 ;;
 
@@ -150,7 +170,7 @@ toilet -f standard "Wait" -F gay
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 sh install.sh
-
+fi
 
 ;;
 
@@ -185,8 +205,92 @@ toilet -f standard "Selesai" -F gay
 sleep 1
 sleep 2
 sh DarkFull.sh
+fi
 
 ;;
+
+#Xtermuxrider
+
+7) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/aldidefril556/XtermuxRider
+cd XtermuxRider
+sh canggih123.sh
+fi
+
+;;
+
+#Spam Wh
+
+8) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/4L13199/LITESPAM.git
+cd LITESPAM
+sh LITESPAM.sh
+fi
+
+;;
+
+#Spam SMS
+
+9) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/TERMUXID3/brutal-sms
+cd brutal-sms
+python2 run.py
+fi
+
+;;
+
+#ScDeface
+
+10) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/Ubaii/script-deface-creator
+cd script-deface-creator
+python2 create.py
+fi
+
+#Spam Call
+
+11) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/Aditya021/SpamCall
+cd SpamCall
+php SpamCall.php
+fi
+
+#SantetOnline
+
+12) clear
+toilet -f standard "Wait" -F gay
+git clone https://github.com/Gameye98/santet-online
+cd santet-online
+python2 santet.py
+fi
+
+;;
+
+#Exit
+
+99) clear
+figlet -f slant "W A I T"|Ulolcat
+sleep 2
+echo $cy"Terima Kasih sudah mengunakan Tools ini"
+sleep 2
+echo $i"Semoga Anda Senang Menggukan Tools Kami"
+sleep 2
+echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
+sleep 2
+echo $ku"Facebook :"$i" Hi Tumbal Face'boom Hi"
+echo $ku"WhatsApp :"$i" ***********"
+sleep 2
+echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
+sleep 2
+exit
+fi
+
+
 
 *) echo $ku"Maaf Yang Anda Cari Tidak Ada"
 sleep 1
