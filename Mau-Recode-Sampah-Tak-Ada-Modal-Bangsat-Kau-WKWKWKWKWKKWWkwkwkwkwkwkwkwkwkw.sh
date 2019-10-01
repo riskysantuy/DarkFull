@@ -59,7 +59,7 @@ echo $i"Ôûê"$pu"  GitHub    :"$me" riskysantuy"$i"             Ôûê"
 sleep 3
 echo $i"Ôûê"$pu"  FACEBOOK  :"$cy" Hi Tumbal Face'boom Hi"$i"  Ôûê"
 sleep 4
-echo $i"Ôûê"$pu"  WhatsApp  :"$i" *************"$i"            Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp  :"$i" *************"$i"           Ôûê"
 sleep 2
 echo $i"Ôûê"$pu"  GMAIL     :"$ku" riskysantuy101@gmail.com"$i"Ôûê"
 sleep 6
@@ -105,7 +105,7 @@ sleep 1
 echo $pur"["$pur"Masukan Pilihan Anda"$ku"]"
 read -p "Nomor Berapa>>>>>>>" pil
  
-if [ $pil = 01 ]
+if [ $pil = 1 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -115,7 +115,7 @@ cd Dark-Fb
 python2 dark.py
 fi
 
-if [ $pil = 02 ]
+if [ $pil = 2 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -125,7 +125,7 @@ cd TOOLSINSTALLERv3
 sh TUANB$DUT.sh
 fi
  
-if [ $pil = 03 ]
+if [ $pil = 3 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -135,7 +135,7 @@ cd Darkcyber
 sh Darkcyber.sh
 fi
 
-if [ $pil = 04 ]
+if [ $pil = 4 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -145,14 +145,14 @@ cd mbf
 python2 MBF.py
 fi
  
-if [ $pil = 05 ]
+if [ $pil = 5 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
 fi
 
-if [ $pil = 06 ]
+if [ $pil = 6 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -162,7 +162,7 @@ cd rus
 sh install.sh
 fi
  
-if [ $pil = 07 ]
+if [ $pil = 7 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -173,7 +173,7 @@ sh canggih123.sh
 
 fi
 
-if [ $pil = 08 ]
+if [ $pil = 8 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -183,7 +183,7 @@ cd LITESPAM
 sh LITESPAM.sh
 fi
  
-if [ $pil = 09 ]
+if [ $pil = 9 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -222,3 +222,25 @@ git clone https://github.com/Gameye98/santet-online
 cd santet-online
 python2 santet.py
 fi
+
+if [ $pil = a  ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+pkg update
+clear
+pkg upgrade
+clear 
+pkg install git
+clear
+pkg install python1
+clear
+pkg install python2
+clear
+pkg install python3
+clear
+figlet -f slant "SELESAI"|lolcat
+sleep 1
+sleep 2
+sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
