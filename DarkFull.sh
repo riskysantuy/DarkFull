@@ -21,10 +21,10 @@ echo $i"----UserName----&---Password---"
 sleep 1
 sleep 1
 sleep 1
-echo $i"----XxXxXxxX----&---XxXxXxXx---"
+echo $i"----########----&---########---"
 sleep 1
 sleep 1
-echo $ku"Soryy Disensor Minta Sama Admin"
+echo $ku"Soryy Disensor Oleh Admin, Minta Sama Admin"
 sleep 1
 sleep 1
 sleep 1
@@ -37,7 +37,7 @@ echo $me"Kepada Teman2 Atau Grup Lainnya Terima Kasih"
 sleep 1
 sleep 1
 sleep 2
-sleep 3
+sleep 10
 clear
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
@@ -57,8 +57,9 @@ sleep 2
 echo $bi"[]INDO,Temux Conding Indonesia,Berbagi Script Termux DLL[]"
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
-sleep 1
-echo $ku"#--Masukan Username!"
+sleep 5
+echo
+echo $me"#--Masukan Username!"
 read -p "#--•> " user
 echo $ku"#--Masukan Password!"
 read -p "#--•> " pass
@@ -68,7 +69,7 @@ then
 echo $i"Login Succes|PRO|"
 sleep 1
 sleep 2
-echo $i"Kamu Sangan |PRO|"
+echo $i"Kamu  Sangat |PRO|"
 sleep 3
 sleep 1
 sleep 1
@@ -77,7 +78,7 @@ else
 echo $me"Login Failed|NOOB|"
 sleep 1
 sleep 1
-echo $me"Kamu Cacat  |N00B|"
+echo $me"Kamu  Cacat |N00B|"
 sleep 1
 echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
@@ -92,6 +93,6 @@ echo $i"Loading... Membuka Facebook Admin"
 sleep 5
 xdg-open https://www.facebook.com/cewekcantik122
 sleep 5
-sleep 1
+sleep 10
 sh DarkFull.sh
 fi
