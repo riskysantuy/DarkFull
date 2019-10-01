@@ -266,7 +266,7 @@ sleep 3
 sh DarkFull.sh
 fi
 
-if [ $pil = 99 ]
+if [ $pil = 00 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
