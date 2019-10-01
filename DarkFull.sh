@@ -30,11 +30,10 @@ sleep 1
 sleep 1
 clear
 echo $me"Jangan DiRecode Bst Gue Cape Membuatnya Dan"
+sleep 1
 echo $me"Menanambah Scerip Kalian Disini Tolong DiShearKan"
+sleep 1
 echo $me"Kepada Teman2 Atau Grup Lainnya Terima Kasih"
-sleep 1
-sleep 1
-sleep 1
 sleep 1
 sleep 1
 sleep 2
@@ -45,7 +44,7 @@ echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 1
 echo $bi"[]Nama Facebook: Hi Tumbal Face'boom Hi                 []"
 sleep 1
-echo $bi"[]Umur         : 12(Dua Belas)                          []"
+echo $bi"[]Umur         : 12(Dua Belas) Tahun                    []"
 sleep 1
 echo $bi"[]Kelas        : 6(Enam) Sd                             []" 
 sleep 1
@@ -94,7 +93,5 @@ sleep 5
 xdg-open https://www.facebook.com/cewekcantik122
 sleep 5
 sleep 1
-sleep 1
-sleep 0
 sh DarkFull.sh
 fi
