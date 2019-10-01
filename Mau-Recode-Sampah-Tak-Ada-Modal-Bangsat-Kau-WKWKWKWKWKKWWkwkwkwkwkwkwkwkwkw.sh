@@ -270,15 +270,16 @@ if [ $pil = 00 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
-sleep 10
+sleep 4
 echo $me"Apakah Anda Mau Keluar, Dari Tools Ini??"
 sleep 5
 echo $ku"Kolo Anda Ingin Keluar, Pant*kKau!!"
-sleep 10
+sleep 5
 echo $cy"DasarKau Bajingan,Bangs*t,Anjin*,Bab*"
 sleep 2
 echo $i"Terima-Kasih"
 sleep 1
 echo $i"Mampus Tidak Bisa Keluar KWKWKWK"
-sleep 10
+sleep 5
 sh DarkFull.sh
+fi
