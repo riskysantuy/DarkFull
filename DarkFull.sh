@@ -69,7 +69,7 @@ then
 echo $i"Login Succes|PRO|"
 sleep 1
 sleep 2
-echo $i"Kamu  Sangat |PRO|"
+echo $i"Kamu  Sangat|PRO|"
 sleep 3
 sleep 1
 sleep 1
