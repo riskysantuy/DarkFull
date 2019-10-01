@@ -72,34 +72,34 @@ sleep 4
 echo $ku"MeNu Tools Vvip"
 sleep 1
 sleep 2
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"01"$me"[]"$cy"DarkFB 1.3                []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"02"$me"[]"$cy" TuanBadut                []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"03"$me"[]"$cy" DarkCyber                []"
-echo $me"[]"$i"##"$me"[]"$cy" User:BOCIL Pass:N00B     []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"04"$me"[]"$cy" MBF                      []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"05"$me"[]"$cy" Bajingan                 []"
-echo $me"[]"$i"##"$me"[]"$cy" User:BAJINGAN Pass:Gans  []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"06"$me"[]"$cy" Rusmana-ID               []"
-echo $me"[]"$i"##"$me"[]"$cy" Tidak Pake User & Pass   []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"07"$me"[]"$cy" XtermuxRider             []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"08"$me"[]"$cy" SPAM Whatshapp           []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"09"$me"[]"$cy" SPAM SMS                 []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"10"$me"[]"$cy" Script-Deface-Creator    []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"11"$me"[]"$cy" Spam Call                []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"12"$me"[]"$cy" Santet-Online            []"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"01"$me"[]"$cy"DarkFB 1.3   "$me            "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"02"$me"[]"$cy" TuanBadut       "$me        "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"03"$me"[]"$cy" DarkCyber       "$me        "[]"
+echo $me"[]"$i"##"$me"[]"$cy" User:BOCIL Pass:N00B"$me    "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"04"$me"[]"$cy" MBF                  "$me   "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"05"$me"[]"$cy" Bajingan           "$me     "[]"
+echo $me"[]"$i"##"$me"[]"$cy" User:BAJINGAN Pass:Gans "$me"[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"06"$me"[]"$cy" Rusmana-ID             "$me" []"
+echo $me"[]"$i"##"$me"[]"$cy" Tidak Pake User & Pass  "$me"[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"07"$me"[]"$cy" XtermuxRider  "$me          "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"08"$me"[]"$cy" SPAM Whatshapp "$me         "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"09"$me"[]"$cy" SPAM SMS" $me               "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"10"$me"[]"$cy" Script-Deface           "$me"[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"11"$me"[]"$cy" Spam Call"$me               "[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"12"$me"[]"$cy" Santet-Online           "$me"[]"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 sleep 1
 echo $pur"["$pur"Masukan Pilihan Anda"$ku"]"
@@ -150,11 +150,6 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-5) clear
-toilet -f standard "Wait" -F gay
-git clone https://github.com/DarknessCyberTeam/BAJINGANv6
-cd BAJINGANv6
-sh BAJINGAN.sh
 fi
 
 if [ $pil = 06 ]
