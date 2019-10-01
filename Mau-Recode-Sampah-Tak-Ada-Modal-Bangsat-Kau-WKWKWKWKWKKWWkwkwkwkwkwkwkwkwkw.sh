@@ -27,6 +27,22 @@ clear
 # purple= \033[37;1m
 # cyan= \033[36;1m
 # white= \033[39;1m
+
+echo $ku"Tools Ini Work Dan Full"
+sleep 1
+echo $ku"Jika Ada Tools Kalian"
+sleep 5
+echo $i"Bilang Sama Admin Biar Gue Masukan KeTools Ini"
+sleep 5
+echo $i"Tapi Jangan Recode Bst Gue Susah MemBuatnya"
+sleep 10
+echo $me"Yang Rocode Tools Gue Saya Do'aKan Mamanya Mati!!!"
+sleep 10
+sleep 5
+echo $me"Amin'Amin Ya ALLAH Amin'Ya Tuhan'Amin'Ya Dewa"
+sleep 10
+sleep 5
+
 z() {
 echo "
 $i░░█░█▌█▀▀█ █▀▀█ █▀▀█ █▌▄█░░
@@ -72,7 +88,7 @@ echo $ku"MeNu Tools Vvip"
 sleep 1
 sleep 2
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"01"$me"[]"$cy"DarkFB 1.3"
+echo $me"[]"$i"01"$me"[]"$cy" DarkFB 1.3"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"02"$me"[]"$cy" TuanBadut"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
@@ -101,10 +117,12 @@ echo $me"[]"$i"12"$me"[]"$cy" Santet-Online"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"99"$me"[]"$cy" Install Tools Full"
 echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
-sleep 1
-echo $pur"["$pur"Masukan Pilihan Anda"$pur"]"
-read -p "Nomor Berapa>>>>>>> " pil
+sleep 5
+echo $pur"["$pur"Anjing Masukan Pilihan Anda"$pur"]"
+sleep 4
+read -p " Nomor Berapa Bst>>>>>>> " pil
  
 if [ $pil = 1 ]
 then
@@ -265,4 +283,3 @@ sleep 2
 exit
 exit
 exit
-fi
