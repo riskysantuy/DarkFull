@@ -53,66 +53,67 @@ $i░░█░█▌█▀▀█ █▀▀█ █▀▀█ █▌▄█░░
 z
 echo
 sleep 1
-echo $pur"==================="$cy" ============================="
-sleep 2
+echo $me"==================="$ku" ============================="
+sleep 1
 echo $i"Ôûê"$pu"  GitHub    :"$me" riskysantuy"$i"             Ôûê"
-sleep 3
+sleep 1
 echo $i"Ôûê"$pu"  FACEBOOK  :"$cy" Hi Tumbal Face'boom Hi"$i"  Ôûê"
-sleep 4
+sleep 1
 echo $i"Ôûê"$pu"  WhatsApp  :"$i" *************"$i"           Ôûê"
-sleep 2
+sleep 1
 echo $i"Ôûê"$pu"  GMAIL     :"$ku" riskysantuy101@gmail.com"$i"Ôûê"
-sleep 6
+sleep 1
 echo $i"Ôûê"$pu"  INSTAGRAM :"$bi" Tidak Ada Soryy"$i"         Ôûê"
-sleep 4
-echo $pur"==================="$cy" ============================="
+sleep 1
+echo $me"==================="$ku" ============================="
 echo
 sleep 1
-sleep 4
 echo $ku"MeNu Tools Vvip"
 sleep 1
 sleep 2
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"01"$me"[]"$cy"DarkFB 1.3   "$me            "[]"
+echo $me"[]"$i"01"$me"[]"$cy"DarkFB 1.3"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"02"$me"[]"$cy" TuanBadut       "$me        "[]"
+echo $me"[]"$i"02"$me"[]"$cy" TuanBadut"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"03"$me"[]"$cy" DarkCyber       "$me        "[]"
-echo $me"[]"$i"##"$me"[]"$cy" User:BOCIL Pass:N00B"$me    "[]"
+echo $me"[]"$i"03"$me"[]"$cy" DarkCyber"
+echo $me"[]"$i"##"$me"[]"$cy" User:BOCIL Pass:N00B"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"04"$me"[]"$cy" MBF                  "$me   "[]"
+echo $me"[]"$i"04"$me"[]"$cy" MBF (Facebook Target)"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"05"$me"[]"$cy" Bajingan           "$me     "[]"
-echo $me"[]"$i"##"$me"[]"$cy" User:BAJINGAN Pass:Gans "$me"[]"
+echo $me"[]"$i"05"$me"[]"$cy" Bajingan"
+echo $me"[]"$i"##"$me"[]"$cy" User:BAJINGAN Pass:Gans"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"06"$me"[]"$cy" Rusmana-ID             "$me" []"
-echo $me"[]"$i"##"$me"[]"$cy" Tidak Pake User & Pass  "$me"[]"
+echo $me"[]"$i"06"$me"[]"$cy" Rusmana-ID"
+echo $me"[]"$i"##"$me"[]"$cy" Tidak Pake User & Pass"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"07"$me"[]"$cy" XtermuxRider  "$me          "[]"
+echo $me"[]"$i"07"$me"[]"$cy" XtermuxRider"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"08"$me"[]"$cy" SPAM Whatshapp "$me         "[]"
+echo $me"[]"$i"08"$me"[]"$cy" SPAM Whatshapp"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"09"$me"[]"$cy" SPAM SMS" $me               "[]"
+echo $me"[]"$i"09"$me"[]"$cy" SPAM SMS"         
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"10"$me"[]"$cy" Script-Deface           "$me"[]"
+echo $me"[]"$i"10"$me"[]"$cy" Script-Deface"           
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"11"$me"[]"$cy" Spam Call"$me               "[]"
+echo $me"[]"$i"11"$me"[]"$cy" Spam Call"              
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
-echo $me"[]"$i"12"$me"[]"$cy" Santet-Online           "$me"[]"
+echo $me"[]"$i"12"$me"[]"$cy" Santet-Online"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"99"$me"[]"$cy" Install Tools Full"
+echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
 sleep 2
 sleep 1
-echo $pur"["$pur"Masukan Pilihan Anda"$ku"]"
-read -p "Nomor Berapa>>>>>>>" pil
+echo $pur"["$pur"Masukan Pilihan Anda"$pur"]"
+read -p "Nomor Berapa>>>>>>> " pil
  
 if [ $pil = 1 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/Mr-XsZ/Dark-Fb
-cd Dark-Fb
-python2 dark.py
+git clone https://github.com/TheMagizz/DarkPremium
+cd DarkPremium
+python2 DarkFB.py
 fi
 
 if [ $pil = 2 ]
@@ -223,7 +224,7 @@ cd santet-online
 python2 santet.py
 fi
 
-if [ $pil = a  ]
+if [ $pil = 99 ]
 then
 clear
 figlet -f slant "W A I T"|lolcat
@@ -243,4 +244,22 @@ clear
 figlet -f slant "SELESAI"|lolcat
 sleep 1
 sleep 2
-sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
+sleep 3
+sh DarkFull.sh
+fi
+
+if [ $pil = 99 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 10
+echo $me"Apakah Anda Mau Keluar, Dari Tools Ini??"
+sleep 5
+echo $ku"Kolo Anda Ingin Keluar, Pant*kKau!!"
+sleep 10
+echo $cy"DasarKau Bajingan,Bangs*t,Anjin*,Bab*"
+sleep 2
+echo $i"Terima-Kasih"
+'exit'
+"exit"
+"exit
