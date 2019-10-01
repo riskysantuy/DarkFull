@@ -259,7 +259,10 @@ echo $ku"Kolo Anda Ingin Keluar, Pant*kKau!!"
 sleep 10
 echo $cy"DasarKau Bajingan,Bangs*t,Anjin*,Bab*"
 sleep 2
-echo $i"Terima-Kasih"
-'exit'
-"exit"
-"exit
+echo $i"Terima-Kasih""
+sleep 10
+sleep 2
+exit
+exit
+exit
+fi
