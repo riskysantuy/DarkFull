@@ -277,9 +277,8 @@ echo $ku"Kolo Anda Ingin Keluar, Pant*kKau!!"
 sleep 10
 echo $cy"DasarKau Bajingan,Bangs*t,Anjin*,Bab*"
 sleep 2
-echo $i"Terima-Kasih""
+echo $i"Terima-Kasih"
+sleep 1
+echo $i"Mampus Tidak Bisa Keluar KWKWKWK"
 sleep 10
-sleep 2
-exit
-exit
-exit
+sh DarkFull.sh
