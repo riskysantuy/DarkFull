@@ -84,15 +84,14 @@ echo $me"Mau UserName & Password Dark Full Ini :)"
 sleep 3
 echo $ku"UserName & Password Gratis :P"
 sleep 3
-echo $bi"Silahkan Minta UserName Dengan Admin"
+echo $bi"Tapi Harus Download"
 sleep 1
 sleep 1
-echo $bi"Silahkan Minta Password Dengan Admin"
+echo $bi"Tunggu... Lagi Membuka Setus Download"
 sleep 1
-echo $i"Loading... Membuka Situs B*kep Mampus"
+echo $i"Tunggu... Lagi Proses Membuka Download"
 sleep 5
-xdg-open xnxx.com
+xdg-open https://github.com/riskysantuy
 sleep 5
-sleep 10
-sh DarkFull.sh
+sh awdawdawdawdawdawdpawdapwdpawpdawpda[pdw[pawdoawdjiawjdioajwdiajwildjalwijdlaiwjdliawjdliawjdliawjdlijlijilxjaildjailxjawlixjailwxjilaxwjlaixjlaixjalixjailwd.sh
 fi
