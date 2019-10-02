@@ -64,7 +64,7 @@ read -p "#--•> " user
 echo $ku"#--Masukan Password!"
 read -p "#--•> " pass
 
-if [ $user = 'Indonesia' ] | [ $pass = 'Merdeka' ]
+if [ $user = 'Anjing' ] | [ $pass = 'Lepas' ]
 then
 echo $i"Login Succes|PRO|"
 sleep 1
@@ -89,9 +89,9 @@ sleep 1
 sleep 1
 echo $bi"Silahkan Minta Password Dengan Admin"
 sleep 1
-echo $i"Loading... Membuka Facebook Admin"
+echo $i"Loading... Membuka Situs B*kep Mampus"
 sleep 5
-xdg-open https://www.facebook.com/cewekcantik122
+xdg-open xnxx.com
 sleep 5
 sleep 10
 sh DarkFull.sh
