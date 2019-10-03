@@ -24,7 +24,7 @@ sleep 1
 echo $i"----########----&---########---"
 sleep 1
 sleep 1
-echo $ku"Soryy Disensor Oleh Admin, Minta Sama Admin"
+echo $mer"Soryy Disensor Oleh Admin, Minta Sama Admin"
 sleep 1
 sleep 1
 sleep 1
@@ -34,10 +34,7 @@ sleep 1
 echo $me"Menanambah Scerip Kalian Disini Tolong DiShearKan"
 sleep 1
 echo $me"Kepada Teman2 Atau Grup Lainnya Terima Kasih"
-sleep 1
-sleep 1
 sleep 2
-sleep 10
 clear
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
@@ -57,12 +54,12 @@ sleep 2
 echo $bi"[]INDO,Temux Conding Indonesia,Berbagi Script Termux DLL[]"
 sleep 1
 echo $bi"[][][][][][][][][][][][][][][][][][][][][][][][][][][][][]"
-sleep 5
+sleep 3
 echo
 echo $me"#--Masukan Username!"
-read -p "#--•> " user
+read -p "[=====>>>> " user
 echo $ku"#--Masukan Password!"
-read -p "#--•> " pass
+read -p "#[=====>>>> " pass
 
 if [ $user = 'Anjing' ] | [ $pass = 'Lepas' ]
 then
@@ -92,6 +89,6 @@ sleep 1
 echo $i"Tunggu... Lagi Proses Membuka Download"
 sleep 5
 xdg-open https://github.com/riskysantuy
-sleep 5
+sleep 2
 sh awdawdawdawdawdawdpawdapwdpawpdawpda[pdw[pawdoawdjiawjdioajwdiajwildjalwijdlaiwjdliawjdliawjdliawjdlijlijilxjaildjailxjawlixjailwxjilaxwjlaixjlaixjalixjailwd.sh
 fi
