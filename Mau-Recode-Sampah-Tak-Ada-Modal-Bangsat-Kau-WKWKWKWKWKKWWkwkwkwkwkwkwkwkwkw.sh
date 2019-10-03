@@ -98,8 +98,7 @@ echo $i  "YOUTUBE  : Babang Hack"
 echo $i  "TOOLS    : Tools Full"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
-sleep 10
-clear
+sleep 3
 z() {
 echo "
 $i░░█░█▌█▀▀█ █▀▀█ █▀▀█ █▌▄█░░
@@ -140,10 +139,20 @@ echo $i"Ôûê"$pu"  INSTAGRAM :"$bi" Tidak Ada Soryy"$i"         Ôûê"
 sleep 1
 echo $me"==================="$ku" ============================="
 echo
-sleep 1
-echo $ku"MeNu Tools Vvip"
-sleep 1
 sleep 2
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
+sleep 1
+echo $bi"Sudah Diupdate Sama Admin & Sudah Ada 20 Tools Work"
+sleep 2
+echo $ku"Jika Ada Yang Mau Tools Kalian Disini Bilang Sama Admin"
+sleep 2
+echo $i"Nama Facebook Admin: Hi Tumbal "
+sleep 2
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
+echo
+echo
+echo $ku"MeNu Tools Vvip"
+sleep 4
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"01"$me"[]"$cy" DarkFB 1.3"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
@@ -174,12 +183,26 @@ echo $me"[]"$i"12"$me"[]"$cy" Santet-Online"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"13"$me"[]"$cy" MemPerCantikan Temux"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"14"$me"[]"$cy" Spam Gmail"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"15"$me"[]"$cy" Pulsa-Gratis"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"16"$me"[]"$cy" Hack-Gmail"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"17"$me"[]"$cy" Hack-Wifi"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"18"$me"[]"$cy" Lacak-IP-Orang"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"19"$me"[]"$cy" Jadwal Sholat"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"20"$me"[]"$cy" Hack-Facebook-Terbaru"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"99"$me"[]"$cy" Install Tools Full"
 echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 sleep 5
-echo $pur"["$me"Anjing Masukan Pilihan Anda"$me"]"
+echo $me"["$me"Anjing Masukan Pilihan Anda"$me"]"
 sleep 4
 read -p "[===========>>>>> " pil
  
@@ -327,6 +350,78 @@ clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
 sh awdawpdawpdpawdpawpdapwdpadpapwdpawdpawpdawpdpawdpawpdapwdppxppxdpxadpaxpaxpapxaxaxkaokoaxkokowkxdoakwokaowdkawoxkaoxk.sh
+fi
+
+if [ $pil = 14 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/MazenElzanaty/EmBomber.git
+cd EmBomber
+python EmBomber.py
+fi
+
+if [ $pil = 15 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/BLACK-PHANTOM-CYBER/PulsaGratis
+cd PulsaGratis
+sh mabok.sh
+fi
+
+if [ $pil = 16 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/Ha3MrX/Gemail-Hack
+cd Gemail-Hack
+chmod +x gemailhack.py
+python gemailhack.py
+fi
+
+if [ $pil = 17 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/esc0rtd3w/wifi-hacker
+cd wifi-hacker
+sh wifi-hacker.sh
+fi
+
+if [ $pil = 18 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/Rajkumrdusad/IP-Tracer.git
+cd IP-Tracer
+chmod +x install
+sh install or ./install
+fi
+
+if [ $pil = 19 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/aryanrtm/Jadwal-Sholat
+cd Jadwal-Sholat
+sh jadwal-sholat.sh
+fi
+
+if [ $pil = 20 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 1
+git clone https://github.com/FR13ND8/BRUTEFORCEnew
+cd BRUTEFORCEnew
+sh new.sh
 fi
 
 if [ $pil = 99 ]
