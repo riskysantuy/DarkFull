@@ -48,8 +48,8 @@ echo $ku"TerimaKasih"
 sleep 8
 clear
 clear
-cowsay -f eyes "Bangsat" | lolcat
-figlet "Welcome To Temux Indonesia"  | lolcat
+cowsay -f eyes "Welcome To Temux Indonesia & Salam Hacker" | lolcat
+figlet "Bangsat"  | lolcat
 figlet -f slant "Bangsat"|lolcat
 neofetch
 date | lolcat
@@ -98,8 +98,8 @@ echo $i  "YOUTUBE  : Babang Hack"
 echo $i  "TOOLS    : Tools Full"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
-clear
 sleep 10
+clear
 z() {
 echo "
 $i░░█░█▌█▀▀█ █▀▀█ █▀▀█ █▌▄█░░
@@ -172,6 +172,8 @@ echo $me"[]"$i"11"$me"[]"$cy" Spam Call"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"12"$me"[]"$cy" Santet-Online"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"13"$me"[]"$cy" MemPerCantikan Temux"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"99"$me"[]"$cy" Install Tools Full"
 echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
@@ -226,7 +228,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-https://github.com/DarknessCyberTeam/BAJINGANv6
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
 fi
@@ -249,7 +251,6 @@ sleep 1
 git clone https://github.com/aldidefril556/XtermuxRider
 cd XtermuxRider
 sh canggih123.sh
-
 fi
 
 if [ $pil = 8 ]
@@ -300,6 +301,14 @@ sleep 1
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
 python2 santet.py
+fi
+
+if [ $pil = 13 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 5
+
 fi
 
 if [ $pil = 99 ]
