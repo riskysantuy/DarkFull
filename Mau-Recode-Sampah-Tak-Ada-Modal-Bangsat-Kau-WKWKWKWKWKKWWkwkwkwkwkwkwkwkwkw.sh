@@ -29,18 +29,18 @@ clear
 # white= \033[39;1m
 
 echo $ku"Tools Ini Work Dan Full"
-sleep 1
+sleep 2
 echo $ku"Jika Ada Tools Kalian"
-sleep 5
+sleep 2
 echo $i"Bilang Sama Admin Biar Gue Masukan KeTools Ini"
-sleep 5
+sleep 2
 echo $i"Tapi Jangan Recode Bst Gue Susah MemBuatnya"
-sleep 10
+sleep 2
 echo $me"Yang Rocode Tools Gue Saya Do'aKan Mamanya Mati!!!"
-sleep 10
-sleep 5
+sleep 2
+sleep 2
 echo $me"Amin'Amin Ya ALLAH Amin'Ya Tuhan'Amin'Ya Dewa"
-sleep 10
+sleep 2
 clear
 echo $ku"Sebelum Masuk KeTools Ini Kita Harus Tonton Gambar Yang Ada"
 sleep 2
@@ -208,6 +208,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+echo $i"Gue Akan Mengasih Tau User & Pass Tools"
+sleep 2
+echo Username : "BOCIL" | lolcat
+sleep 2
+echo Password : "N00B <<++O,nya Diganti Jadi Nol " | lolcat
+sleep 10
 git clone https://github.com/fatonicyber/Darkcyber
 cd Darkcyber
 sh Darkcyber.sh
@@ -228,6 +234,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+echo $i"Gue Akan Mengasih Tau User & Pass Tools"
+sleep 2
+echo Username : "BAJINGAN" | lolcat
+sleep 2
+echo Password : "Gans" | lolcat
+sleep 10
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
@@ -238,6 +250,12 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+echo $i"Gue Akan Mengasih Tau User & Pass Tools"
+sleep 2
+echo Username : "Tidak Pake" | lolcat
+sleep 2
+echo Password : "Tidak Pake" | lolcat
+sleep 10
 git clone https://github.com/Rusmana-ID/rus
 cd rus
 sh install.sh
