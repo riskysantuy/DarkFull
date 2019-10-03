@@ -1,12 +1,25 @@
 # Jangan DiRecode Iya Tod
 
+
 clear
+pkg install sl
+sleep 5
 figlet "W A I T"  | lolcat
 pkg install nano
 clear
 pkg install ruby cowsay toilet figlet
 clear
 pkg install neofetch
+clear
+pkg install cowsay
+clear
+pkg install wc
+clear
+pkg install ruby
+clear
+pip2 install mechanize
+clear
+pip2 install requests
 clear
 gem install lolcat
 clear
@@ -153,10 +166,12 @@ echo $me"[]"$i"01"$me"[]"$cy" Adi1090x"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 echo $me"[]"$i"02"$me"[]"$cy" Remo773"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"[]"$i"03"$me"[]"$cy" Shell-scan"
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 5
 echo $pur"["$pur"Bangsat Masukan Pilihan"$pur"]"
 sleep 4
-read -p " =========>>>>> " pil
+read -p " [===========>>>>> " pil
  
 if [ $pil = 1 ]
 then
@@ -177,4 +192,15 @@ sleep 2
 git clone https://github.com/remo7777/T-Header.git
 cd T-Header
 bash t-header.sh 
+fi
+
+if [ $pil = 3 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 2
+git clone https://github.com/Rhi7/shell-scan
+cd shell-scan
+chmod +x shell.py
+python shell.py -u example -w wordlist.txt
 fi
