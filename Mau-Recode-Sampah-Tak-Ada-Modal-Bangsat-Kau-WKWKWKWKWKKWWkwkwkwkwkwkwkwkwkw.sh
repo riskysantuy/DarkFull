@@ -179,9 +179,9 @@ echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 sleep 5
-echo $pur"["$mer"Anjing Masukan Pilihan Anda"$mer"]"
+echo $pur"["$me"Anjing Masukan Pilihan Anda"$me"]"
 sleep 4
-read -p " [===========>>>>> " pil
+read -p "[===========>>>>> " pil
  
 if [ $pil = 1 ]
 then
@@ -340,7 +340,7 @@ figlet -f slant "SELESAI"|lolcat
 sleep 1
 sleep 2
 sleep 3
-sh DarkFull.sh
+sh Mau-Recode-Sampah-Tak-Ada-Modal-Bangsat-Kau-WKWKWKWKWKKWWkwkwkwkwkwkwkwkwkw.sh
 fi
 
 if [ $pil = 00 ]
