@@ -44,7 +44,7 @@ sleep 10
 clear
 echo $ku"Sebelum Masuk KeTools Ini Kita Harus Tonton Gambar Yang Ada"
 sleep 2
-echo $ku"TerimaKasih
+echo $ku"TerimaKasih"
 sleep 8
 clear
 clear
