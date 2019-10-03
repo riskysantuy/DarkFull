@@ -24,7 +24,7 @@ sleep 1
 echo $i"----########----&---########---"
 sleep 1
 sleep 1
-echo $mer"Soryy Disensor Oleh Admin, Minta Sama Admin"
+echo $me"Soryy Disensor Oleh Admin, Minta Sama Admin"
 sleep 1
 sleep 1
 sleep 1
