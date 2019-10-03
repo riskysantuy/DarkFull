@@ -309,9 +309,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/TERMUXID3/brutal-sms
-cd brutal-sms
-python2 run.py
+git clone https://github.com/zlucifer/troll_project
+cd troll_project
+bash troll.sh
 fi
  
 if [ $pil = 10 ]
@@ -459,17 +459,13 @@ fi
 if [ $pil = 00 ]
 then
 clear
-figlet -f slant "W A I T"|lolcat
-sleep 4
-echo $me"Apakah Anda Mau Keluar, Dari Tools Ini??"
-sleep 5
-echo $ku"Kolo Anda Ingin Keluar, Pant*kKau!!"
-sleep 5
-echo $cy"DasarKau Bajingan,Bangs*t,Anjin*,Bab*"
+figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $i"Terima-Kasih"
-sleep 1
-echo $i"Mampus Tidak Bisa Keluar KWKWKWK"
-sleep 5
-sh DarkFull.sh
+echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+sleep 2
+echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
+sleep 2
+echo $i"WhatsApp :"$i" **************"
+echo $bi"Facebook :"$i" Risky Solihin"
+exit
 fi
