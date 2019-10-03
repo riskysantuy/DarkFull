@@ -3,7 +3,8 @@
 
 clear
 pkg install sl
-sleep 5
+sl
+sleep 8
 figlet "W A I T"  | lolcat
 pkg install nano
 clear
