@@ -48,23 +48,23 @@ sleep 2
 echo
 echo $me"Ctrl+z Stop"
 echo $me"---MeNu-YanG-TerSedIa---"
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
 sleep 2
 echo $me"[]"$i"01"$me"[]"$cy" Membuka Web UserName & Password"
 sleep 2
 echo $me"[]"$i"##"$me"[]"$cy" Semoga Beruntung"
 sleep 2
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
 sleep 2
 echo $me"[]"$i"02"$me"[]"$cy" Download UserName & Password"
 sleep 2
 echo $me"[]"$i"##"$me"[]"$cy" Semoga Beruntung"
 sleep 2
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
 sleep 2
 echo $me"[]"$i"00"$me"[]"$cy" Kembali"
 sleep 2
-echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo $me"====================>>>>>"$ku"XX"$bi"<<<<<====================="
 echo 
 echo $i"["$pur"Masukan Yang Harus Dipilih"$i"]"
 sleep 2
@@ -132,5 +132,6 @@ sleep 3
 echo $mer"Bye Bye"
 sleep 3
 sh DarkFull.sh
+fi
 
 
