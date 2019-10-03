@@ -41,8 +41,65 @@ sleep 10
 sleep 5
 echo $me"Amin'Amin Ya ALLAH Amin'Ya Tuhan'Amin'Ya Dewa"
 sleep 10
-sleep 5
-
+clear
+echo $ku"Sebelum Masuk KeTools Ini Kita Harus Tonton Gambar Yang Ada"
+sleep 2
+echo $ku"TerimaKasih
+sleep 8
+clear
+clear
+cowsay -f eyes "Bangsat" | lolcat
+figlet "Welcome To Temux Indonesia"  | lolcat
+figlet -f slant "Bangsat"|lolcat
+neofetch
+date | lolcat
+sleep 8
+clear
+echo
+echo $me"                     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶"
+echo $me"                 ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
+echo $me"              ¶¶¶¶                        ¶¶¶¶"
+echo $me"             ¶¶¶                            ¶¶¶"
+echo $me"            ¶¶                                ¶¶"
+echo $me"           ¶¶                                  ¶¶"
+echo $me"          ¶¶                                   ¶¶"
+echo $me"          ¶¶´¶¶                             ¶¶´¶¶"
+echo $me"          ¶¶´¶¶                             ¶¶´´¶"
+echo $me"          ¶¶´¶¶                             ¶¶´´¶"
+echo $me"         ¶¶  ¶¶                            ¶¶´¶¶"
+echo $me"          ¶¶´´¶¶                           ¶¶´´¶¶"
+echo $me"           ¶¶´¶¶   ¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶   ¶¶´¶¶"
+echo $me"            ¶¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶"
+echo $me"             ¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶"
+echo $me"    ¶¶¶       ¶¶  ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶¶¶  ¶¶      ¶¶¶¶"
+echo $me"   ¶¶¶¶¶     ¶¶   ¶¶¶¶¶¶¶   ¶¶¶   ¶¶¶¶¶¶¶   ¶¶     ¶¶¶¶¶¶"
+echo $me"  ¶¶   ¶¶    ¶¶     ¶¶¶    ¶¶¶¶¶    ¶¶¶     ¶¶    ¶¶   ¶¶"
+echo $me" ¶¶¶    ¶¶¶¶  ¶¶          ¶¶¶¶¶¶¶          ¶¶  ¶¶¶¶    ¶¶¶"
+echo $me"¶¶         ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶        ¶¶¶¶¶¶¶¶¶        ¶¶"
+echo $me"¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶¶      ¶¶¶¶¶¶¶¶"
+echo $me"  ¶¶¶¶ ¶¶¶¶¶      ¶¶¶¶¶              ¶¶¶ ¶¶     ¶¶¶¶¶¶ ¶¶¶"
+echo $me"       ¶¶¶¶¶¶  ¶¶¶  ¶¶           ¶¶  ¶¶¶  ¶¶¶¶¶¶"        
+echo $me"              ¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶"
+echo $me"                  ¶¶ ¶¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶¶"
+echo $me"                ¶¶¶¶  ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶   ¶¶¶¶¶"
+echo $me"            ¶¶¶¶¶ ¶¶   ¶¶¶¶¶¶¶¶¶¶¶¶¶   ¶¶ ¶¶¶¶¶"
+echo $me"    ¶¶¶¶¶¶¶¶¶¶     ¶¶                 ¶¶      ¶¶¶¶¶¶¶¶¶"
+echo $me"   ¶¶           ¶¶¶¶¶¶¶             ¶¶¶¶¶¶¶¶          ¶¶"
+echo $me"    ¶¶¶     ¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶     ¶¶¶"
+echo $me"      ¶¶   ¶¶¶           ¶¶¶¶¶¶¶¶¶           ¶¶¶   ¶¶"
+echo $me"      ¶¶  ¶¶                                   ¶¶  ¶¶"
+echo $me"       ¶¶¶¶                                     ¶¶¶¶"
+echo
+echo
+echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo $i  "AUTHOR   : Mr.RiskyGx"
+echo $i  "WA       : 0813651823**"
+echo $i  "YOUTUBE  : Babang Hack"
+echo $i  "TOOLS    : Tools Full"
+echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo
+clear
+sleep 10
 z() {
 echo "
 $i░░█░█▌█▀▀█ █▀▀█ █▀▀█ █▌▄█░░
@@ -169,6 +226,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
+https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
 fi
 
 if [ $pil = 6 ]
