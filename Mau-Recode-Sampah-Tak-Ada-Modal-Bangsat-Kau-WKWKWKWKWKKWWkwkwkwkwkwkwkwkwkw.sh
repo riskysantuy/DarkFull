@@ -179,9 +179,9 @@ echo $me"[]"$i"00"$me"[]"$cy" Exit Fack YOU!!"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 sleep 5
-echo $pur"["$pur"Anjing Masukan Pilihan Anda"$pur"]"
+echo $pur"["$mer"Anjing Masukan Pilihan Anda"$mer"]"
 sleep 4
-read -p " Nomor Berapa Bst>>>>>>> " pil
+read -p " [===========>>>>> " pil
  
 if [ $pil = 1 ]
 then
@@ -308,7 +308,7 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
-
+sh awdawpdawpdpawdpawpdapwdpadpapwdpawdpawpdawpdpawdpawpdapwdppxppxdpxadpaxpaxpapxaxaxkaokoaxkokowkxdoakwokaowdkawoxkaoxk.sh
 fi
 
 if [ $pil = 99 ]
@@ -327,6 +327,14 @@ clear
 pkg install python2
 clear
 pkg install python3
+clear
+pkg install ruby
+clear
+pkg install cowsay
+clear
+pkg install figlet toilet lolcat 
+clear
+gem install lolcat
 clear
 figlet -f slant "SELESAI"|lolcat
 sleep 1
