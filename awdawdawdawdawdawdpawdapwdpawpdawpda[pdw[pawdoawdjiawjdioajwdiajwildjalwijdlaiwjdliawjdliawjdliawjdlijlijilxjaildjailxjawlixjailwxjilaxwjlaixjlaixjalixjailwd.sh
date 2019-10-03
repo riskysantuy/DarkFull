@@ -46,22 +46,29 @@ sleep 3
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 echo
+echo $me"Ctrl+z Stop"
+echo $me"---MeNu-YanG-TerSedIa---"
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 echo $me"[]"$i"01"$me"[]"$cy" Membuka Web UserName & Password"
 sleep 2
-echo $me"[]"$i"##"$me"[]"$cy" Hati-Hati Kenak Tipu"
+echo $me"[]"$i"##"$me"[]"$cy" Semoga Beruntung"
 sleep 2
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
 echo $me"[]"$i"02"$me"[]"$cy" Download UserName & Password"
 sleep 2
+echo $me"[]"$i"##"$me"[]"$cy" Semoga Beruntung"
+sleep 2
 echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
 sleep 2
-
-echo $pur"["$pur"Masukan Yang Harus Dipilih"$pur"]"
-sleep 4
-read -p " {Nomor Berapa Bst>>>>>>>} " pil
+echo $me"[]"$i"00"$me"[]"$cy" Kembali"
+sleep 2
+echo $me"[][][][][][][][][][][][][][][][][][][][][][][][][][]"
+echo 
+echo $i"["$pur"Masukan Yang Harus Dipilih"$i"]"
+sleep 2
+read -p " ===========>>>>> " pil
 
 
 if [ $pil = 1 ]
@@ -69,17 +76,14 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
-figlet -f slant "Mampus"|lolcat
+figlet -f slant "Soryy"|lolcat
 sleep 2
-figlet -f slant "Kenak Tipu"|lolcat
-sleep 2
-figlet -f slant "Sama Admin"|lolcat
-sleep 4
-figlet -f slant "Makanya"|lolcat
-sleep 2
-figlet -f slant "Download"|lolcat
-sleep 10
+figlet -f slant "Admin Tidak"|lolcat
 sleep 1
+figlet -f slant "Ada Web "|lolcat
+sleep 1
+figlet -f slant "Kembali"|lolcat
+sleep 6
 sh awdawdawdawdawdawdpawdapwdpawpdawpda[pdw[pawdoawdjiawjdioajwdiajwildjalwijdlaiwjdliawjdliawjdliawjdlijlijilxjaildjailxjawlixjailwxjilaxwjlaixjlaixjalixjailwd.sh
 fi
 
@@ -88,19 +92,45 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 5
-figlet -f slant "Selamat"|lolcat
+figlet -f slant "tunggu."|lolcat
 sleep 4
-figlet -f slant "Anda"|lolcat
+clear
+figlet -f slant "Tunggu.."|lolcat
 sleep 4
-figlet -f slant "Tidak"|lolcat
+clear
+figlet -f slant "Tunggu..."|lolcat
 sleep 3
-figlet -f slant "Kenak"|lolcat
+clear
+figlet -f slant "Tunggu."|lolcat
 sleep 4
-figlet -f slant "Tipu Sama"|lolcat
+figlet -f slant "Tunggu.."|lolcat
 sleep 5
-figlet -f slant "Admin!!"|lolcat
+clear
+figlet -f slant "Tunggu..."|lolcat
 sleep 5
 xdg-open https://bercara.com/BangsatKau999
 sleep 10
 sh awdawdawdawdawdawdpawdapwdpawpdawpda[pdw[pawdoawdjiawjdioajwdiajwildjalwijdlaiwjdliawjdliawjdliawjdlijlijilxjaildjailxjawlixjailwxjilaxwjlaixjlaixjalixjailwd.sh
 fi
+
+if [ $pil = 00 ]
+then
+clear
+figlet -f slant "W A I T"|lolcat
+sleep 2
+clear
+figlet -f slant "tunggu."|lolcat
+sleep 2
+clear
+figlet -f slant "Tunggu.."|lolcat
+sleep 2
+clear
+figlet -f slant "Tunggu..."|lolcat
+sleep 10
+clear
+sleep 3
+echo $mer"Bye Bye"
+sleep 3
+sh DarkFull.sh
+
+
