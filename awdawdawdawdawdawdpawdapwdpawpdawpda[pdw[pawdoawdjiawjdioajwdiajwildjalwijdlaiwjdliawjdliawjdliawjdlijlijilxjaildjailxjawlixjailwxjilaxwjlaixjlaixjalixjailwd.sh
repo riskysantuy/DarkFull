@@ -129,7 +129,7 @@ figlet -f slant "Tunggu..."|lolcat
 sleep 10
 clear
 sleep 3
-echo $mer"Bye Bye"
+echo $me"Bye Bye,Bye Bye"
 sleep 3
 sh DarkFull.sh
 fi
